@@ -26,6 +26,7 @@ Parts too fiddly to draw by hand, made by a script instead.
 | | |
 | --- | --- |
 | **[bore-generator](https://gernreich.github.io/bore-generator/)** | Turns a bore written as a walk through a lattice of blocks into checked cut files |
+| **[bore-designs](https://gernreich.github.io/bore-designs/)** | Every bore worked out so far, built into cut files — the corpus the generator regresses against |
 | **[knotwork-soundholes](https://gernreich.github.io/knotwork-soundholes/)** | Knotwork rosettes for an instrument sound hole, by leads and bights |
 | **[living-hinge](https://gernreich.github.io/living-hinge/)** | Parametric lattice-hinge patterns, so a flat sheet will bend |
 
