@@ -46,14 +46,6 @@ The one deliberate exception is `test-ladder.py`, where colour carries cut *spee
 than order — because splitting an import into layers by colour is the only place a laser
 importer will let a separate speed live.
 
-## Why the writeups say where they went wrong
-
-Each build page records the mistakes as well as the method: the bell whose material figure
-was right for two sizes and wrong for a third, the bore that was 6mm short per section
-because a block was measured at 25mm instead of 31, the checker that passed a page 15/15
-while twelve of its thirteen images 404'd. A build sheet that only records what worked is
-the one that costs someone a sheet of ply.
-
 This page is `README.md` rendered by `md2html.py` into `index.html` and committed, not
 built on the server, so it goes stale silently unless it is regenerated after every edit.
 

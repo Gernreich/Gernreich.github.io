@@ -83,7 +83,7 @@ pre,.tw{break-inside:avoid}h1{break-after:avoid}}
 <body>
 <button class="tog" type="button">theme</button>
 <div class="wrap">
-<nav><b>Contents</b><a class="l1" href="#lasermademusic">LaserMadeMusic</a><a class="l2" href="#the-instruments">The instruments</a><a class="l2" href="#the-generators">The generators</a><a class="l2" href="#the-tools">The tools</a><a class="l2" href="#colour-is-the-cut-order">Colour is the cut order</a><a class="l2" href="#why-the-writeups-say-where-they-went-wrong">Why the writeups say where they went wrong</a></nav>
+<nav><b>Contents</b><a class="l1" href="#lasermademusic">LaserMadeMusic</a><a class="l2" href="#the-instruments">The instruments</a><a class="l2" href="#the-generators">The generators</a><a class="l2" href="#the-tools">The tools</a><a class="l2" href="#colour-is-the-cut-order">Colour is the cut order</a></nav>
 <main>
 <h1 id="lasermademusic">LaserMadeMusic</h1>
 <p>Musical instruments cut from 3mm Baltic birch plywood on a laser, and the cut files to build them. Everything here is millimetre-true at <code>1 user unit = 1mm</code>, so a file prints and cuts at real size, and every part is a flat plate joined to other flat plates.</p>
@@ -98,8 +98,6 @@ pre,.tw{break-inside:avoid}h1{break-after:avoid}}
 <h2 id="colour-is-the-cut-order">Colour is the cut order</h2>
 <p>Shared by every repository here: <strong>blue engraves, then green → orange → cyan → black</strong>, with black always the cut that frees the part, and <strong>violet <code>#8000ff</code> meaning skip</strong>. A file uses only the stages it needs.</p>
 <p>The one deliberate exception is <code>test-ladder.py</code>, where colour carries cut <em>speed</em> rather than order — because splitting an import into layers by colour is the only place a laser importer will let a separate speed live.</p>
-<h2 id="why-the-writeups-say-where-they-went-wrong">Why the writeups say where they went wrong</h2>
-<p>Each build page records the mistakes as well as the method: the bell whose material figure was right for two sizes and wrong for a third, the bore that was 6mm short per section because a block was measured at 25mm instead of 31, the checker that passed a page 15/15 while twelve of its thirteen images 404'd. A build sheet that only records what worked is the one that costs someone a sheet of ply.</p>
 <p>This page is <code>README.md</code> rendered by <code>md2html.py</code> into <code>index.html</code> and committed, not built on the server, so it goes stale silently unless it is regenerated after every edit.</p>
 <p>Released under <a href="LICENSE">CC0 1.0</a>.</p>
 </main>
