@@ -54,4 +54,7 @@ because a block was measured at 25mm instead of 31, the checker that passed a pa
 while twelve of its thirteen images 404'd. A build sheet that only records what worked is
 the one that costs someone a sheet of ply.
 
+This page is `README.md` rendered by `md2html.py` into `index.html` and committed, not
+built on the server, so it goes stale silently unless it is regenerated after every edit.
+
 Released under [CC0 1.0](LICENSE).
