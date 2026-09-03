@@ -6,6 +6,15 @@ and cuts at real size, and every part is a flat plate joined to other flat plate
 
 The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@LaserMadeMusic)**.
 
+<p align="center">
+<iframe src="bore-viewer.html" title="A metre of 25 x 25mm bore following a planar serpentine curve, drawn as a solid tube you can drag to turn" width="100%" height="420" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+That is **[bore-ribbon](https://gernreich.github.io/bore-ribbon/)** — a metre of
+25 x 25mm bore, constant along a planar curve, cut flat and finger-jointed.
+Drag it. (The frame is [`bore-viewer.html`](bore-viewer.html); GitHub strips
+iframes, so on this README it is a link rather than a picture.)
+
 ## The instruments
 
 | | |
