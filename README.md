@@ -12,6 +12,7 @@ The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@L
 | --- | --- |
 | **[trumpet-coiled](https://gernreich.github.io/trumpet-coiled/)** | A trumpet bore in 25 × 25mm square section that coils flat and drops twice, built with no elbows |
 | **[trumpet-octagonal](https://gernreich.github.io/trumpet-octagonal/)** | The trumpet form of the octagonal torus — a curved octagonal bore on the same channel |
+| **[trumpet-switchback](https://gernreich.github.io/trumpet-switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at both 25 and 10mm |
 | **[trumpet-parts](https://gernreich.github.io/trumpet-parts/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
 | **[torus-octagonal](https://gernreich.github.io/torus-octagonal/)** | An octagonal torus: two nested octagonal tubes joined by annular plates |
 | **[kalimba](https://gernreich.github.io/kalimba/)** | A seven-sided kalimba body whose front carries a seven-fold knot rosette |
@@ -27,6 +28,9 @@ Parts too fiddly to draw by hand, made by a script instead.
 | --- | --- |
 | **[bore-generator](https://gernreich.github.io/bore-generator/)** | Turns a bore written as a walk through a lattice of blocks into checked cut files |
 | **[bore-designs](https://gernreich.github.io/bore-designs/)** | Every bore worked out so far, built into cut files — the corpus the generator regresses against |
+| **[bore-ribbon](https://gernreich.github.io/bore-ribbon/)** | Constant cross-section along any planar curve, with the walls faceted between two flat cheeks |
+| **[bore-stretched](https://gernreich.github.io/bore-stretched/)** | Bores whose straight blocks run longer than their turns, so one walk gives 548mm where it gave 352 |
+| **[spirals](https://gernreich.github.io/spirals/)** | Coiling bore walks that turn about an axis while advancing along it, with what each costs to build |
 | **[knotwork-soundholes](https://gernreich.github.io/knotwork-soundholes/)** | Knotwork rosettes for an instrument sound hole, by leads and bights |
 | **[living-hinge](https://gernreich.github.io/living-hinge/)** | Parametric lattice-hinge patterns, so a flat sheet will bend |
 
