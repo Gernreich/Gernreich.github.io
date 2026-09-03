@@ -15,6 +15,41 @@ That is **[bore-ribbon](https://gernreich.github.io/bore-ribbon/)** — a metre 
 Drag it. (The frame is [`bore-viewer.html`](bore-viewer.html); GitHub strips
 iframes, so on this README it is a link rather than a picture.)
 
+## More bores you can turn
+
+Every bore in the project has one of these. They are the same viewer in two
+families: a lattice of blocks for the walks, and a swept tube for the planar
+curve above.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/trumpet-coiled/bore/bore.html" title="The coiled trumpet bore: 59 blocks of 25mm square section coiling flat and dropping twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**[trumpet-coiled](https://gernreich.github.io/trumpet-coiled/)** — 59 blocks,
+8 sections, **1829mm** of centreline at 25 x 25mm, with no elbows.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/trumpet-switchback/sizes.html" title="The switchback bore at both sizes, with a control to swap between the 25mm and 10mm versions of the same walk" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**[trumpet-switchback](https://gernreich.github.io/trumpet-switchback/)** — one
+walk at two bores. 22 blocks and 6 sections either way, but **682mm** of
+centreline at 25mm and **352mm** at 10mm. The control swaps them, and they are
+drawn to the same scale so the difference is the point.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/bore-stretched/coils.html" title="Four coils of the same walk truncated at different lengths, with a control to swap between three quarters, one and a half, two and a quarter and three turns" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**[bore-stretched](https://gernreich.github.io/bore-stretched/)** — one walk
+truncated four ways: **274, 548, 822 and 1096mm**. A block that runs straight
+is 30mm long and a block that turns is a 16mm cube, which is where the extra
+length comes from.
+
+**[spirals](https://gernreich.github.io/spirals/)** has seventeen more, one
+page per walk, each with the numbers that say how hard it spirals and what it
+costs to build.
+
 ## The instruments
 
 | | |
