@@ -7,11 +7,11 @@ and cuts at real size, and every part is a flat plate joined to other flat plate
 The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@LaserMadeMusic)**.
 
 <p align="center">
-<iframe src="bore-viewer.html" title="A metre of 25 x 25mm bore following a planar serpentine curve, drawn as a solid tube you can drag to turn" width="100%" height="420" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="bore-viewer.html" title="A metre of 10 × 10mm bore following a planar serpentine curve, drawn as a solid tube you can drag to turn" width="100%" height="420" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 That is **[bore-ribbon](https://gernreich.github.io/bore-ribbon/)** — a metre of
-25 x 25mm bore, constant along a planar curve, cut flat and finger-jointed.
+10 × 10mm bore, constant along a planar curve, cut flat and finger-jointed.
 Drag it. (The frame is [`bore-viewer.html`](bore-viewer.html); GitHub strips
 iframes, so on this README it is a link rather than a picture.)
 
@@ -26,7 +26,7 @@ curve above.
 </p>
 
 **[trumpet-coiled](https://gernreich.github.io/trumpet-coiled/)** — 59 blocks,
-8 sections, **1829mm** of centreline at 25 x 25mm, with no elbows.
+8 sections, **1829mm** of centreline at 25 × 25mm, with no elbows.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet-switchback/10mm/bore/bore.html" title="The switchback bore: twenty-two blocks of 10mm square section folding back on itself twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
