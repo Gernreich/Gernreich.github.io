@@ -50,6 +50,32 @@ length comes from.
 page per walk, each with the numbers that say how hard it spirals and what it
 costs to build.
 
+## And the parts on the ends of them
+
+A bore is only the tube. Both of these are stacks of laminated 3mm rings, and
+both turn the same way — the slider stacks them a ring at a time, which is the
+useful part.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/trumpet-parts/bell/bell-round25-204mm-17rings-x4-rim145-turn.html" title="A bell built from seventeen laminated rings, drawn as a solid you can drag to turn: a square throat flaring to a round rim" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**The bell** — 17 rings of 12mm, **204mm** tall, a 25mm square throat opening
+to a **ø144.8mm** round rim. The section morphs square to round on the way up
+while holding area.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/trumpet-parts/mouthpiece/mouthpiece-bore25-trumpet-parts-turn.html" title="A mouthpiece built from thirty laminated rings, drawn as a solid you can drag to turn: a square plate at the instrument, a cup at the lip, and the throat between them" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**The mouthpiece** — 30 rings of 3mm, **90mm** tall, a 31mm square plate at the
+instrument and a ø22.5mm rim at the lip, whose cup opens at ø16.5 and narrows
+to a **ø3.66mm** throat before the backbore.
+
+**[trumpet-parts](https://gernreich.github.io/trumpet-parts/)** has the other
+eleven: six bells that are square-to-round, four that stay square, and the
+mouthpiece at both bores. Every sheet is listed there with both its pictures.
+
 ## The instruments
 
 | | |
