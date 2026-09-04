@@ -29,13 +29,12 @@ curve above.
 8 sections, **1829mm** of centreline at 25 x 25mm, with no elbows.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-switchback/sizes.html" title="The switchback bore at both sizes, with a control to swap between the 25mm and 10mm versions of the same walk" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-switchback/10mm/bore/bore.html" title="The switchback bore: twenty-two blocks of 10mm square section folding back on itself twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[trumpet-switchback](https://gernreich.github.io/trumpet-switchback/)** — one
-walk at two bores. 22 blocks and 6 sections either way, but **682mm** of
-centreline at 25mm and **352mm** at 10mm. The control swaps them, and they are
-drawn to the same scale so the difference is the point.
+**[trumpet-switchback](https://gernreich.github.io/trumpet-switchback/)** — 22
+blocks, 6 sections, **352mm** of centreline at 10 × 10mm, folding back on
+itself twice. Its 25mm twin was retired on 2026-09-03.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/bore-stretched/coils.html" title="Four coils of the same walk truncated at different lengths, with a control to swap between three quarters, one and a half, two and a quarter and three turns" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -57,24 +56,24 @@ both turn the same way — the slider stacks them a ring at a time, which is the
 useful part.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-parts/bell/bell-round25-204mm-17rings-x4-rim145-turn.html" title="A bell built from seventeen laminated rings, drawn as a solid you can drag to turn: a square throat flaring to a round rim" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-parts/bell/bell-round10-153mm-17rings-x3-rim86-turn.html" title="A bell built from seventeen laminated rings, drawn as a solid you can drag to turn: a square throat flaring to a round rim" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**The bell** — 17 rings of 12mm, **204mm** tall, a 25mm square throat opening
-to a **ø144.8mm** round rim. The section morphs square to round on the way up
-while holding area.
+**The bell** — 17 rings of 9mm, **153mm** tall, a 10mm square throat opening to
+a **ø86mm** round rim. The section morphs square to round on the way up while
+holding area.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-parts/mouthpiece/mouthpiece-bore25-trumpet-parts-turn.html" title="A mouthpiece built from thirty laminated rings, drawn as a solid you can drag to turn: a square plate at the instrument, a cup at the lip, and the throat between them" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-parts/mouthpiece/mouthpiece-bore10-trumpet-parts-turn.html" title="A mouthpiece built from thirty laminated rings, drawn as a solid you can drag to turn: a square plate at the instrument, a cup at the lip, and the throat between them" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**The mouthpiece** — 30 rings of 3mm, **90mm** tall, a 31mm square plate at the
-instrument and a ø22.5mm rim at the lip, whose cup opens at ø16.5 and narrows
-to a **ø3.66mm** throat before the backbore.
+**The mouthpiece** — 30 rings of 3mm, **90mm** tall, a 16mm square plate at the
+instrument and a ø23mm rim at the lip — ø17 where the lip actually sits —
+narrowing to a **ø3.66mm** throat before the backbore. Full size on a quarter-size instrument, which is the point of it.
 
-**[trumpet-parts](https://gernreich.github.io/trumpet-parts/)** has the other
-eleven: six bells that are square-to-round, four that stay square, and the
-mouthpiece at both bores. Every sheet is listed there with both its pictures.
+**[trumpet-parts](https://gernreich.github.io/trumpet-parts/)** has the
+generators that draw them, and both sheets listed with their sections and
+isometrics. The 25mm bells and mouthpieces were retired on 2026-09-03.
 
 ## The instruments
 
