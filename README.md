@@ -92,7 +92,7 @@ isometrics. The 25mm bells and mouthpieces were retired on 2026-09-03.
 | **[the octagonal trumpet](https://gernreich.github.io/trumpet/bores/octagonal/)** | The trumpet form of the octagonal torus — a curved octagonal bore on the same channel |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet/bores/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the bell and the mouthpiece](https://gernreich.github.io/trumpet/parts/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
-| **[torus-octagonal](https://gernreich.github.io/torus-octagonal/)** | An octagonal torus: two nested octagonal tubes joined by annular plates |
+| **[the octagonal torus](https://gernreich.github.io/trumpet/torus/)** | An octagonal torus: two nested octagonal tubes joined by annular plates |
 | **[kalimba](https://gernreich.github.io/kalimba/)** | A seven-sided kalimba body whose front carries a seven-fold knot rosette |
 | **[slapstick](https://gernreich.github.io/slapstick/)** | Two long slats joined at one end; swing it and the free ends clap |
 | **[bullroarer](https://gernreich.github.io/bullroarer/)** | Five blade profiles for a bullroarer, whirled on a cord |
