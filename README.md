@@ -52,8 +52,20 @@ what lets a curve this tight be offset correctly.
 **[the double spiral](https://gernreich.github.io/trumpet/)** — the longest of them
 at **1506mm**, 42 facets of 30°. Two arms half a turn apart from R62, rising 46mm a
 turn, joined at the centre by an arc off R30 and a straight. Winding in and back out
-is what gets **both** ends to the rim: a volute has to stop somewhere, and that
-somewhere is enclosed. 86 parts on two sheets, the cheek 257 × 264mm.
+is what gets **both** ends to the rim: a coil that only winds in has to stop
+somewhere, and that somewhere is enclosed. 86 parts on two sheets, the cheek 257 × 264mm.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/volute/ribbon-volute-bore10-45deg-R94-step60/ribbon-volute-bore10-45deg-R94-step60.html" title="1180mm of 10 by 10mm bore wound flat as a double volute: two interleaved arms of straight-sided semicircles winding in to meet at the eye, with a straight lead leaving at the upper right and another at the lower left, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**[the double volute](https://gernreich.github.io/trumpet/)** — **1180mm**, the same
+winding in and back out done the strict way. Every arc is a semicircle whose radius
+holds all the way across and steps only at the joins, where a mitre already expects a
+corner: a radius still changing across a facet cannot be offset correctly, and drawing
+this as a smooth spiral once cost **6.44mm of a 10mm airway**. Interleaving the return
+arm puts the openings **180.00°** apart for nothing, because the two ends are one end
+and its own half-turn.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/opposed/ribbon-opposed-bore10-30deg-3lobes-R64/ribbon-opposed-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
