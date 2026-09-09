@@ -50,9 +50,10 @@ what lets a curve this tight be offset correctly.
 </p>
 
 **[the double spiral](https://gernreich.github.io/trumpet/)** — the longest of them
-at **1506mm**, 42 facets of 30°. Two arms half a turn apart from R62, rising 46mm a
-turn, joined at the centre by an arc off R30 and a straight. Winding in and back out
-is what gets **both** ends to the rim: a coil that only winds in has to stop
+at **1506mm**, 42 facets of 30°. Two arms half a turn apart, their vertices sampled
+every facet off **a smooth Archimedean spiral**, `r = R0 + b·θ` from R62 and rising
+46mm a turn, joined at the centre by an arc off R30 and a straight. Winding in and
+back out is what gets **both** ends to the rim: a coil that only winds in has to stop
 somewhere, and that somewhere is enclosed. 86 parts on two sheets, the cheek 257 × 264mm.
 
 <p align="center">
@@ -60,12 +61,13 @@ somewhere, and that somewhere is enclosed. 86 parts on two sheets, the cheek 257
 </p>
 
 **[the double volute](https://gernreich.github.io/trumpet/)** — **1180mm**, the same
-winding in and back out done the strict way. Every arc is a semicircle whose radius
-holds all the way across and steps only at the joins, where a mitre already expects a
-corner: a radius still changing across a facet cannot be offset correctly, and drawing
-this as a smooth spiral once cost **6.44mm of a 10mm airway**. Interleaving the return
-arm puts the openings **180.00°** apart for nothing, because the two ends are one end
-and its own half-turn.
+skeleton on a different curve. Where the double spiral samples one smooth spiral, this
+is **a chain of semicircles**: the radius holds all the way across each arc and steps
+only at the joins, about two alternating centres whose midpoint is the eye. That is
+what separates the two, and neither can be turned into the other — one spiral about
+one centre, against circular arcs about two. Interleaving the return arm puts the
+openings **180.00°** apart for nothing, because the two ends are one end and its own
+half-turn.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/opposed/ribbon-opposed-bore10-30deg-3lobes-R64/ribbon-opposed-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
