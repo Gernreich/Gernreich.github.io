@@ -46,6 +46,34 @@ and the openings 180° apart. Every facet is its own constant-radius arc, which 
 what lets a curve this tight be offset correctly.
 
 <p align="center">
+<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/dspiral/ribbon-dspiral-bore10-30deg-R62-pitch46/ribbon-dspiral-bore10-30deg-R62-pitch46.html" title="A metre and a half of 10 by 10mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**[the double spiral](https://gernreich.github.io/trumpet/)** — the longest of them
+at **1506mm**, 42 facets of 30°. Two arms half a turn apart from R62, rising 46mm a
+turn, joined at the centre by an arc off R30 and a straight. Winding in and back out
+is what gets **both** ends to the rim: a volute has to stop somewhere, and that
+somewhere is enclosed. 86 parts on two sheets, the cheek 257 × 264mm.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/opposed/ribbon-opposed-bore10-30deg-3lobes-R64/ribbon-opposed-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**[the opposed-ends bore](https://gernreich.github.io/trumpet/)** — the same metre
+laid out long: three half-circles of R64 joined by straights, then a quarter turn to
+bring the ends opposed. 28 facets of 30°, 58 parts, and the cheek is 572 × 251mm,
+which is most of the bed.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/wave/ribbon-wave-bore10-45deg-5arc/ribbon-wave-bore10-45deg-5arc.html" title="836mm of 10 by 10mm bore drawn as a solid tube you can drag to turn: it doubles back on itself into a long narrow loop, with a straight lead leaving at the lower left and another at the upper right" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
+**[the wave](https://gernreich.github.io/trumpet/)** — **836mm** at 45° facets, a
+trough of R55 and a crest of R55, level at both ends. Nothing nests here: the
+straight riser between the lobes is structural, because where the curvature reverses
+at a single vertex the two offset walls cross.
+
+<p align="center">
 <iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/fold2-long-straight/coils.html" title="Four coils of the same walk truncated at different lengths, with a control to swap between three quarters, one and a half, two and a quarter and three turns" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
