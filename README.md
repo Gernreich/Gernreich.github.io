@@ -92,9 +92,14 @@ at a single vertex the two offset walls cross.
 </p>
 
 **[the stretched lattice](https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/fold2-long-straight/coils.html)** — one walk
-truncated four ways: **274, 548, 822 and 1096mm**. A block that runs straight
-is 30mm long and a block that turns is a 16mm cube, which is where the extra
-length comes from.
+truncated four ways: **274, 548, 822 and 1096mm**, an exact 1 : 2 : 3 : 4. A
+block that runs straight is 30mm long and a block that turns is a 16mm cube,
+which is where the extra length comes from.
+
+The longest of the four is **[the three-turn trumpet](https://gernreich.github.io/trumpet/three-turn/)**, and it is
+the one instrument here that exists as an object rather than a drawing: 1096mm of
+bore in twelve sections, a mouthpiece at one end and a 153mm bell at the other.
+It plays — one of its notes is F4, 349.2 Hz, measured.
 
 **[the coil search](https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/search/)** worked through seventeen of them. Seven were
 promoted for winning a category outright or tying for one, each carrying the
@@ -132,6 +137,7 @@ of them.
 
 | | |
 | --- | --- |
+| **[the three-turn trumpet](https://gernreich.github.io/trumpet/three-turn/)** | The one that was built: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it, and it plays |
 | **[the coiled trumpet](https://gernreich.github.io/trumpet/coiled/)** | A trumpet bore in 10 × 10mm square section that coils flat and drops twice, built with no elbows |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
