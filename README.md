@@ -22,13 +22,6 @@ families: a lattice of blocks for the walks, and a swept tube for the planar
 curve above.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/flat-drop/bore/bore.html" title="The coiled trumpet bore: 59 blocks of 10mm square section coiling flat and dropping twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
-</p>
-
-**[the coiled trumpet](https://gernreich.github.io/trumpet/coiled/)** — 59 blocks,
-8 sections, **944mm** of centreline at 10 × 10mm, with no elbows.
-
-<p align="center">
 <iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/fold2/bore/bore.html" title="The switchback bore: twenty-two blocks of 10mm square section folding back on itself twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
@@ -138,7 +131,6 @@ of them.
 | | |
 | --- | --- |
 | **[the three-turn trumpet](https://gernreich.github.io/trumpet/three-turn/)** | The one that was built: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it, and it plays |
-| **[the coiled trumpet](https://gernreich.github.io/trumpet/coiled/)** | A trumpet bore in 10 × 10mm square section that coils flat and drops twice, built with no elbows |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the bell and the mouthpiece](https://gernreich.github.io/trumpet/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
