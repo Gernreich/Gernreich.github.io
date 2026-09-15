@@ -30,10 +30,10 @@ blocks, 6 sections, **352mm** of centreline at 10 × 10mm, folding back on
 itself twice.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/spiral/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html" title="A metre of 10 by 10mm bore wound flat into a coil of two and a bit turns, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html" title="A metre of 10 by 10mm bore wound flat into a coil of two and a bit turns, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the ribbon bore](https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/spiral/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html)** again — the same metre
+**[the ribbon bore](https://gernreich.github.io/trumpet/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html)** again — the same metre
 **wound flat**, two and a bit turns in a 220 × 223mm disc, with a lead at each end
 and the openings 180° apart. Every facet is its own constant-radius arc, which is
 what lets a curve this tight be offset correctly.
