@@ -36,7 +36,9 @@ itself twice.
 **[the ribbon bore](https://gernreich.github.io/trumpet/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html)** again — the same metre
 **wound flat**, two and a bit turns in a 220 × 223mm disc, with a lead at each end
 and the openings 180° apart. Every facet is its own constant-radius arc, which is
-what lets a curve this tight be offset correctly.
+what lets a curve this tight be offset correctly. **This one is in wood** — the
+cheek that was cut is the `--narrow` one, whose plate is 216.50 × 218.51mm on a
+236.50 × 238.51mm sheet; the 220 × 223 above is the design's full-width footprint.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/swept-curve/dspiral/ribbon-dspiral-bore10-30deg-R62-pitch46/ribbon-dspiral-bore10-30deg-R62-pitch46.html" title="A metre and a half of 10 by 10mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -90,9 +92,10 @@ block that runs straight is 30mm long and a block that turns is a 16mm cube,
 which is where the extra length comes from.
 
 The longest of the four is **[the three-turn trumpet](https://gernreich.github.io/trumpet/three-turn/)**, and it is
-the one instrument here that exists as an object rather than a drawing: 1096mm of
-bore in twelve sections, a mouthpiece at one end and a 153mm bell at the other.
-It plays — one of its notes is F4, 349.2 Hz, measured.
+the one here you can pick up and play: 1096mm of bore in twelve sections, a
+mouthpiece at one end and a 153mm bell at the other. One of its notes is F4,
+349.2 Hz, measured. Two instruments are in wood — this and the spiral above —
+and this is the one that has been blown.
 
 **[the coil search](https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/search/)** worked through seventeen of them. Seven were
 promoted for winning a category outright or tying for one, each carrying the
@@ -130,7 +133,8 @@ of them.
 
 | | |
 | --- | --- |
-| **[the three-turn trumpet](https://gernreich.github.io/trumpet/three-turn/)** | The one that was built: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it, and it plays |
+| **[the three-turn trumpet](https://gernreich.github.io/trumpet/three-turn/)** | The one that plays: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
+| **[the spiral bore](https://gernreich.github.io/trumpet/ribbon-spiral/)** | The other one in wood: a metre swept along a flat coil, 19 facets of 45°, cut and glued up with a bell in its port |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the bell and the mouthpiece](https://gernreich.github.io/trumpet/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
