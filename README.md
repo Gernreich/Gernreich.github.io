@@ -134,7 +134,7 @@ of them.
 | | |
 | --- | --- |
 | **[the three-turn trumpet](https://gernreich.github.io/trumpet/three-turn/)** | The one that plays: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
-| **[the spiral bore](https://gernreich.github.io/trumpet/ribbon-spiral/)** | The other one in wood: a metre swept along a flat coil, 19 facets of 45°, cut and glued up with a bell in its port |
+| **[the spiral bore](https://gernreich.github.io/trumpet/ribbon-spiral/)** | The other one in wood: a metre swept along a flat coil, 19 facets of 45°, cut, glued up and shellacked, with a bell in its port |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the bell and the mouthpiece](https://gernreich.github.io/trumpet/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
