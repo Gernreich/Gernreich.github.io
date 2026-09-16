@@ -22,7 +22,7 @@ families: a lattice of blocks for the walks, and a swept tube for the planar
 curve above.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/fold2/bore/bore.html" title="The switchback bore: twenty-two blocks of 10mm square section folding back on itself twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/walk/coil/fold2/bore/bore.html" title="The switchback bore: twenty-two blocks of 10mm square section folding back on itself twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 **[the switchback trumpet](https://gernreich.github.io/trumpet/switchback/)** — 22
@@ -83,10 +83,10 @@ straight riser between the lobes is structural, because where the curvature reve
 at a single vertex the two offset walls cross.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/fold2-long-straight/coils.html" title="Four coils of the same walk truncated at different lengths, with a control to swap between three quarters, one and a half, two and a quarter and three turns" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet/parts/bore/concept/walk/coil/fold2-long-straight/coils.html" title="Four coils of the same walk truncated at different lengths, with a control to swap between three quarters, one and a half, two and a quarter and three turns" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the stretched lattice](https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/fold2-long-straight/coils.html)** — one walk
+**[the stretched lattice](https://gernreich.github.io/trumpet/parts/bore/concept/walk/coil/fold2-long-straight/coils.html)** — one walk
 truncated four ways: **274, 548, 822 and 1096mm**, an exact 1 : 2 : 3 : 4. A
 block that runs straight is 30mm long and a block that turns is a 16mm cube,
 which is where the extra length comes from.
@@ -97,7 +97,7 @@ mouthpiece at one end and a 153mm bell at the other. One of its notes is F4,
 349.2 Hz, measured. Two instruments are in wood — this and the spiral above —
 and this is the one that has been blown.
 
-**[the coil search](https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/search/)** worked through seventeen of them. Seven were
+**[the coil search](https://gernreich.github.io/trumpet/parts/bore/concept/walk/coil/search/)** worked through seventeen of them. Seven were
 promoted for winning a category outright or tying for one, each carrying the
 numbers that say how hard it coils and what it costs to build; the other ten
 are still in `coil/search`.
@@ -152,8 +152,8 @@ Parts too fiddly to draw by hand, made by a script instead.
 | **[the bore generator](https://gernreich.github.io/trumpet/#the-toolchain)** | Turns a bore written as a walk through a lattice of blocks into checked cut files |
 | **[the design library](https://gernreich.github.io/trumpet/#what-is-in-here)** | Every bore worked out so far, built into cut files — the corpus the generator regresses against |
 | **[the ribbon bore](https://gernreich.github.io/trumpet/#three-ways-to-make-a-tube)** | Constant cross-section along any planar curve, with the walls faceted between two flat cheeks |
-| **[the stretched lattice](https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/no-contact/fold2-long-straight/coils.html)** | Bores whose straight blocks run longer than their turns, so one walk gives 548mm where it gave 352 |
-| **[spirals](https://gernreich.github.io/trumpet/parts/bore/concept/walk/no-elbows/coil/search/)** | Coiling bore walks that turn about an axis while advancing along it, with what each costs to build |
+| **[the stretched lattice](https://gernreich.github.io/trumpet/parts/bore/concept/walk/coil/fold2-long-straight/coils.html)** | Bores whose straight blocks run longer than their turns, so one walk gives 548mm where it gave 352 |
+| **[spirals](https://gernreich.github.io/trumpet/parts/bore/concept/walk/coil/search/)** | Coiling bore walks that turn about an axis while advancing along it, with what each costs to build |
 | **[knotwork-soundholes](https://gernreich.github.io/knotwork-soundholes/)** | Knotwork rosettes for an instrument sound hole, by leads and bights |
 | **[living-hinge](https://gernreich.github.io/living-hinge/)** | Parametric lattice-hinge patterns, so a flat sheet will bend |
 
