@@ -138,7 +138,6 @@ of them.
 | **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
-| **[the ziggurat](https://gernreich.github.io/trumpet-elbows-allowed/ziggurat/)** | A trumpet bore wound as a centred square spiral, each of its three turns a block wider all round: 1008mm, 4 elbows |
 | **[the bell and the mouthpiece](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
 | **[kalimba](https://gernreich.github.io/kalimba/)** | A seven-sided kalimba body whose front carries a seven-fold knot rosette |
 | **[slapstick](https://gernreich.github.io/slapstick/)** | Two long slats joined at one end; swing it and the free ends clap |
