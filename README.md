@@ -151,6 +151,7 @@ Parts too fiddly to draw by hand, made by a script instead.
 | --- | --- |
 | **[the bore generator](https://gernreich.github.io/trumpet-elbows-not-allowed/#the-toolchain)** | Turns a bore written as a walk through a lattice of blocks into checked cut files |
 | **[the design library](https://gernreich.github.io/trumpet-elbows-not-allowed/#what-is-in-here)** | Every bore worked out so far, built into cut files — the corpus the generator regresses against |
+| **[the design library, elbows allowed](https://gernreich.github.io/trumpet-elbows-allowed/#elbows-and-contact)** | The same generator and library with a turn that cannot fold cut as an elbow rather than refused, so five designs that need elbows are back |
 | **[the ribbon bore](https://gernreich.github.io/trumpet-elbows-not-allowed/#three-ways-to-make-a-tube)** | Constant cross-section along any planar curve, with the walls faceted between two flat cheeks |
 | **[the stretched lattice](https://gernreich.github.io/trumpet-elbows-not-allowed/parts/bore/concept/walk/coil/fold2-long-straight/coils.html)** | Bores whose straight blocks run longer than their turns, so one walk gives 548mm where it gave 352 |
 | **[spirals](https://gernreich.github.io/trumpet-elbows-not-allowed/parts/bore/concept/walk/coil/search/)** | Coiling bore walks that turn about an axis while advancing along it, with what each costs to build |
