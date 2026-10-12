@@ -17,7 +17,9 @@ most recent bore to be cut: a trumpet bore drawn as a flat meander, the Greek
 key wound in and brought back out beside itself. **68 blocks, 1088mm** of
 10 × 10mm bore in **one section**, because it never leaves its plane. It is in
 ply and press-fit; neither end is fitted yet. Drag it. (GitHub strips iframes,
-so on this README the viewer is a link rather than a picture.)
+so on this README the viewer is
+[a link](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/meander/greek-key/bore/bore.html)
+rather than a picture.)
 
 ## More bores you can turn
 
@@ -29,7 +31,7 @@ tube for the planar curves below.
 <iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html" title="A metre and a half of 10 by 10mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the double spiral](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html)** — the longest of them
+**[the double spiral](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html)** — the longest on this page
 at **1506mm**, 42 facets of 30°. Two arms half a turn apart, their vertices sampled
 every facet off **a smooth Archimedean spiral**, `r = R0 + b·θ` from R62 and rising
 46mm a turn, joined at the centre by an arc off R30 and a straight. Winding in and
