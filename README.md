@@ -41,10 +41,10 @@ cheek that was cut is the `--narrow` one, whose plate is 216.50 × 218.51mm on a
 236.50 × 238.51mm sheet; the 220 × 223 above is the design's full-width footprint.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/dspiral/ribbon-dspiral-bore10-30deg-R62-pitch46/ribbon-dspiral-bore10-30deg-R62-pitch46.html" title="A metre and a half of 10 by 10mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html" title="A metre and a half of 10 by 10mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the double spiral](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/dspiral/ribbon-dspiral-bore10-30deg-R62-pitch46/ribbon-dspiral-bore10-30deg-R62-pitch46.html)** — the longest of them
+**[the double spiral](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html)** — the longest of them
 at **1506mm**, 42 facets of 30°. Two arms half a turn apart, their vertices sampled
 every facet off **a smooth Archimedean spiral**, `r = R0 + b·θ` from R62 and rising
 46mm a turn, joined at the centre by an arc off R30 and a straight. Winding in and
@@ -52,10 +52,10 @@ back out is what gets **both** ends to the rim: a coil that only winds in has to
 somewhere, and that somewhere is enclosed. 86 parts on two sheets, the cheek plate 237 × 244mm.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/volute/ribbon-volute-bore10-45deg-R94-step60/ribbon-volute-bore10-45deg-R94-step60.html" title="1180mm of 10 by 10mm bore wound flat as a double volute: two interleaved arms of straight-sided semicircles winding in to meet at the eye, with a straight lead leaving at the upper right and another at the lower left, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/volute/double-volute-bore10-45deg-R94-step60/ribbon-double-volute-bore10-45deg-R94-step60.html" title="1180mm of 10 by 10mm bore wound flat as a double volute: two interleaved arms of straight-sided semicircles winding in to meet at the eye, with a straight lead leaving at the upper right and another at the lower left, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the double volute](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/volute/ribbon-volute-bore10-45deg-R94-step60/ribbon-volute-bore10-45deg-R94-step60.html)** — **1180mm**, the same
+**[the double volute](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/volute/double-volute-bore10-45deg-R94-step60/ribbon-double-volute-bore10-45deg-R94-step60.html)** — **1180mm**, the same
 skeleton on a different curve. Where the double spiral samples one smooth spiral, this
 is **a chain of semicircles**: the radius holds all the way across each arc and steps
 only at the joins, about two alternating centres whose midpoint is the eye. That is
@@ -65,19 +65,19 @@ openings **180.00°** apart for nothing, because the two ends are one end and it
 half-turn.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/opposed/ribbon-opposed-bore10-30deg-3lobes-R64/ribbon-opposed-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the opposed-ends bore](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/opposed/ribbon-opposed-bore10-30deg-3lobes-R64/ribbon-opposed-bore10-30deg-3lobes-R64.html)** — the same metre
+**[the three-lobe serpentine with collinear ends](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html)** — the same metre
 laid out long: three half-circles of R64 joined by straights, then a quarter turn to
 bring the ends opposed. 28 facets of 30°, 58 parts, and its cheek sheet is 572 × 251mm,
 which is most of the bed.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/wave/ribbon-wave-bore10-45deg-5arc/ribbon-wave-bore10-45deg-5arc.html" title="836mm of 10 by 10mm bore drawn as a solid tube you can drag to turn: it doubles back on itself into a long narrow loop, with a straight lead leaving at the lower left and another at the upper right" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/ess/ribbon-ess-bore10-45deg-5arc/ribbon-ess-bore10-45deg-5arc.html" title="836mm of 10 by 10mm bore drawn as a solid tube you can drag to turn: it doubles back on itself into a long narrow loop, with a straight lead leaving at the lower left and another at the upper right" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the wave](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/wave/ribbon-wave-bore10-45deg-5arc/ribbon-wave-bore10-45deg-5arc.html)** — **836mm** at 45° facets, a
+**[the ess](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/ess/ribbon-ess-bore10-45deg-5arc/ribbon-ess-bore10-45deg-5arc.html)** — **836mm** at 45° facets, a
 trough of R55 and a crest of R55, level at both ends. Nothing nests here: the
 straight riser between the lobes is structural, because where the curvature reverses
 at a single vertex the two offset walls cross.
