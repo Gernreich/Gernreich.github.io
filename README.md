@@ -6,39 +6,24 @@ and cuts at real size, and every part is a flat plate joined to other flat plate
 
 The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@LaserMadeMusic)**.
 
+![The greek spiral cut in birch ply and press-fit, lying flat: a square-section bore with its finger joints showing dark along every edge, winding in from the top right to a short bar at the centre and back out to the bottom left](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/greek-spiral-bore-built_web.jpg)
+
 <p align="center">
-<iframe src="bore-viewer.html" title="A metre of 10 × 10mm bore following a planar serpentine curve, drawn as a solid tube you can drag to turn" width="100%" height="420" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/meander/greek-key/bore/bore.html" title="The greek spiral bore: sixty-eight blocks of 10mm square section lying flat as a Greek key, winding in to a short bar at the centre and back out beside itself, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-That is **[the ribbon bore](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/serpentine/ribbon-serpentine-bore10-30deg-3lobes-R72/ribbon-serpentine-bore10-30deg-3lobes-R72.html)** — a metre of
-10 × 10mm bore, constant along a planar curve, cut flat and finger-jointed.
-Drag it. (The frame is [`bore-viewer.html`](bore-viewer.html); GitHub strips
-iframes, so on this README it is a link rather than a picture.)
+That is **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)**, the
+most recent bore to be cut: a trumpet bore drawn as a flat meander, the Greek
+key wound in and brought back out beside itself. **68 blocks, 1088mm** of
+10 × 10mm bore in **one section**, because it never leaves its plane. It is in
+ply and press-fit; neither end is fitted yet. Drag it. (GitHub strips iframes,
+so on this README the viewer is a link rather than a picture.)
 
 ## More bores you can turn
 
 Every bore in the project has one of these. They are the same viewer in two
-families: a lattice of blocks for the walks, and a swept tube for the planar
-curve above.
-
-<p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/coil/fold2/bore/bore.html" title="The switchback bore: twenty-two blocks of 10mm square section folding back on itself twice, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
-</p>
-
-**[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** — 22
-blocks, 6 sections, **352mm** of centreline at 10 × 10mm, folding back on
-itself twice.
-
-<p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html" title="A metre of 10 by 10mm bore wound flat into a coil of two and a bit turns, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
-</p>
-
-**[the ribbon bore](https://gernreich.github.io/trumpet-elbows-allowed/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html)** again — the same metre
-**wound flat**, two and a bit turns in a 220 × 223mm disc, with a lead at each end
-and the openings 180° apart. Every facet is its own constant-radius arc, which is
-what lets a curve this tight be offset correctly. **This one is in wood** — the
-cheek that was cut is the `--narrow` one, whose plate is 216.50 × 218.51mm on a
-236.50 × 238.51mm sheet; the 220 × 223 above is the design's full-width footprint.
+families: a lattice of blocks for the walks, like the one above, and a swept
+tube for the planar curves below.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html" title="A metre and a half of 10 by 10mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -68,7 +53,7 @@ half-turn.
 <iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the three-lobe serpentine with collinear ends](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html)** — the same metre
+**[the three-lobe serpentine with collinear ends](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html)** — a metre
 laid out long: three half-circles of R64 joined by straights, then a quarter turn to
 bring the ends opposed. 28 facets of 30°, 58 parts, and its cheek sheet is 572 × 251mm,
 which is most of the bed.
@@ -94,8 +79,8 @@ which is where the extra length comes from.
 The longest of the four is **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)**, and it is
 the one here you can pick up and play: 1096mm of bore in twelve sections, a
 mouthpiece at one end and a 153mm bell at the other. One of its notes is F4,
-349.2 Hz, measured. Two instruments are in wood — this and the spiral above —
-and this is the one that has been blown.
+349.2 Hz, measured. Two instruments are in wood — this and
+[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/) — and this is the one that has been blown.
 
 **[the coil search](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/coil/search/)** worked through fourteen of them. Four were
 promoted for winning a category outright or tying for one, each carrying the
@@ -134,7 +119,7 @@ of them.
 | | |
 | --- | --- |
 | **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | The one that plays: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
-| **[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** | The other one in wood: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit and shellacked, with a bell in its port |
+| **[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** | The other instrument in wood: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit and shellacked, with a bell in its port |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
