@@ -130,6 +130,7 @@ of them.
 | **[slapstick](https://gernreich.github.io/slapstick/)** | Two long slats joined at one end; swing it and the free ends clap |
 | **[bullroarer](https://gernreich.github.io/bullroarer/)** | Five blade profiles for a bullroarer, whirled on a cord |
 | **[buzz-disc](https://gernreich.github.io/buzz-disc/)** | Two designs for a buzz disc, threaded on a cord loop that winds and unwinds |
+| **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
 
 ## The generators
 
