@@ -11,10 +11,13 @@ The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@L
 Two instruments are finished in wood. The three-turn trumpet is the one that
 has been blown.
 
-| | |
-| --- | --- |
-| <a href="https://gernreich.github.io/trumpet-elbows-allowed/three-turn/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/coil-fold2-long-straight-3t/bore10-coil-fold2-long-straight-3t_web.jpg" alt="The finished trumpet lying on concrete: a ring-stacked mouthpiece at the left, the square-section bore folding through its coil in the middle, and the laminated bell flaring at the right, all of it shellacked dark" width="200"></a> | **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — Press-fit, shellacked and blown: 1096mm of bore in twelve sections, with the bell and the mouthpiece on it. It plays, and one of its notes is F4, measured |
-| <a href="https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113-1000mm-ported-square-narrow-cheek-x2-finished_web.jpg" alt="The finished spiral standing upright on its bell: the faceted band winding a little over two turns in glossy amber-brown, with the straight tail carrying a ring-stacked mouthpiece" width="200"></a> | **[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** — A metre swept along a flat coil, cut, press-fit and shellacked, with a bell in its port |
+**[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — press-fit, shellacked and blown: 1096mm of bore in twelve sections, with the bell and the mouthpiece on it. It plays, and one of its notes is F4, measured.
+
+<p align="center"><a href="https://gernreich.github.io/trumpet-elbows-allowed/three-turn/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/coil-fold2-long-straight-3t/bore10-coil-fold2-long-straight-3t_web.jpg" alt="The finished trumpet lying on concrete: a ring-stacked mouthpiece at the left, the square-section bore folding through its coil in the middle, and the laminated bell flaring at the right, all of it shellacked dark" style="max-height:560px;width:auto;border-radius:10px"></a></p>
+
+**[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** — a metre swept along a flat coil, cut, press-fit and shellacked, with a bell in its port.
+
+<p align="center"><a href="https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113-1000mm-ported-square-narrow-cheek-x2-finished_web.jpg" alt="The finished spiral standing upright on its bell: the faceted band winding a little over two turns in glossy amber-brown, with the straight tail carrying a ring-stacked mouthpiece" style="max-height:560px;width:auto;border-radius:10px"></a></p>
 
 ## Turn the bores
 
