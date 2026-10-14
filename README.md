@@ -73,6 +73,7 @@ holding area.
 **The mouthpiece** — 30 rings of 3mm, **90mm** tall, a 16mm square plate at the
 instrument and a ø23mm rim at the lip — ø17 where the lip actually sits —
 narrowing to a **ø3.66mm** throat before the backbore. Full size on a quarter-size instrument, which is the point of it.
+The one on the built three-turn trumpet is shorter, 24 rings and 72mm.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/mouthpiece/mouthpiece-bore10-trumpet-parts-turn.html" title="A mouthpiece built from thirty laminated rings, drawn as a solid you can drag to turn: a square plate at the instrument, a cup at the lip, and the throat between them" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -151,7 +152,7 @@ are still in `coil/search`.
 
 # The other instruments
 
-Each of these turns too, assembled from its own cut files.
+Each of these turns too, built from the same geometry as its cut files.
 
 **[kalimba](https://gernreich.github.io/kalimba/)** — a seven-sided body, finger-jointed, whose top face carries a seven-fold knot rosette.
 
@@ -241,7 +242,7 @@ Parts too fiddly to draw by hand, made by a script instead.
 
 | | |
 | --- | --- |
-| **[lasermade-tools](https://gernreich.github.io/lasermade-tools/)** | Shared checkers: what a writeup claims about itself, and what a cut file claims about its colours |
+| **[lasermade-tools](https://gernreich.github.io/lasermade-tools/)** | The page builder and the shared checkers — what a writeup claims about itself, what a cut file claims about its colours, whether an image carries metadata — and the 3D viewers for the hand-drawn instruments |
 
 ## Colour is the cut order
 
