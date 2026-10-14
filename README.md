@@ -25,14 +25,14 @@ bench, and the bores designed but not yet cut.
 
 ## Built
 
-Two versions are finished in wood, one of each kind. The three-turn trumpet is
-the one that has been blown.
+Two versions are finished in wood, one of each kind, and both have been blown.
+The three-turn trumpet's note is measured; the spiral's is not yet reported.
 
 **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — grid blocks, press-fit, shellacked and blown: 1096mm of bore in twelve sections, with the bell and the mouthpiece on it. It plays, and one of its notes is F4, measured.
 
 <p align="center"><a href="https://gernreich.github.io/trumpet-elbows-allowed/three-turn/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/coil-fold2-long-straight-3t/bore10-coil-fold2-long-straight-3t_web.jpg" alt="The finished trumpet lying on concrete: a ring-stacked mouthpiece at the left, the square-section bore folding through its coil in the middle, and the laminated bell flaring at the right, all of it shellacked dark" style="max-height:560px;width:auto;border-radius:10px"></a></p>
 
-**[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** — a swept curve: a metre swept along a flat coil, cut, press-fit and shellacked, with a bell in its port.
+**[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** — a swept curve: a metre swept along a flat coil, cut, press-fit, shellacked and blown, with a bell in its port; its note is not yet reported.
 
 <p align="center"><a href="https://gernreich.github.io/swept-curve/ribbon-spiral/"><img src="https://gernreich.github.io/swept-curve/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113-1000mm-ported-square-narrow-cheek-x2-finished_web.jpg" alt="The finished spiral standing upright on its bell: the faceted band winding a little over two turns in glossy amber-brown, with the straight tail carrying a ring-stacked mouthpiece" style="max-height:560px;width:auto;border-radius:10px"></a></p>
 
@@ -55,8 +55,8 @@ and its turns are 16mm cubes, which is where the length comes from.
 
 **[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** — **1000mm** of
 centreline in 19 facets of 45°, winding out from R34.7 to R112.9 between two flat
-cheeks. The built swept curve. Cut, press-fit and
-shellacked, with a bell in its port.
+cheeks. The built swept curve. Cut, press-fit, shellacked and
+blown, with a bell in its port; its note is not yet reported.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/swept-curve/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html" title="The spiral bore: a metre of 10mm square section swept along a flat coil in nineteen 45 degree facets, winding out from a small centre to a straight tail, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -237,8 +237,8 @@ bell and the mouthpiece fitted to them, and the last is those two ends themselve
 
 | | |
 | --- | --- |
-| **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | The one that plays: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
-| **[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** | The other version in wood, and a swept curve: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit and shellacked, with a bell in its port |
+| **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | Built and blown, with one note measured: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
+| **[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** | The other version in wood, and a swept curve: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit, shellacked and blown, with a bell in its port |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
