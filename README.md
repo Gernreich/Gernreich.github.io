@@ -182,16 +182,24 @@ too, assembled from its own cut files.
 | --- | --- |
 | **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | The one that plays: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
 | **[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** | The other instrument in wood: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit and shellacked, with a bell in its port |
-| **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
-| **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
-| **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
-| **[the bell and the mouthpiece](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
 | **[kalimba](https://gernreich.github.io/kalimba/)** | A seven-sided kalimba body whose front carries a seven-fold knot rosette |
 | **[slapstick](https://gernreich.github.io/slapstick/)** | Two long slats joined at one end; swing it and the free ends clap |
 | **[bullroarer](https://gernreich.github.io/bullroarer/)** | Five blade profiles for a bullroarer, whirled on a cord |
 | **[buzz-disc](https://gernreich.github.io/buzz-disc/)** | Two designs for a buzz disc, threaded on a cord loop that winds and unwinds |
 | **[square-bore flute](https://gernreich.github.io/square-flute/)** | A five-hole pentatonic flute in A4, Native American style, with a square bore in 3mm ply: four builds from one acoustic model, box or stack, each with its flue in the bird, in the nest or half in each, and the boxes finger-jointed or flat, carrying the 2017 flute's ideas |
 | **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
+
+## Bores and parts
+
+Pieces of an instrument rather than instruments: trumpet bores, each of which still
+needs the bell and the mouthpiece fitted to it, and those two ends themselves.
+
+| | |
+| --- | --- |
+| **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
+| **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
+| **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
+| **[the bell and the mouthpiece](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
 
 ## The generators
 
