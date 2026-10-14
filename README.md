@@ -6,10 +6,21 @@ and cuts at real size, and every part is a flat plate joined to other flat plate
 
 The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@LaserMadeMusic)**.
 
+# The trumpet
+
+One instrument type in many versions. Every version is a quarter-size trumpet on a
+10 × 10mm square bore, with the same bell and the same mouthpiece; what changes
+from one to the next is the bore, the path the tube takes between them. All of it
+lives in one repository, **[trumpet-elbows-allowed](https://gernreich.github.io/trumpet-elbows-allowed/)**.
+
+Everything from here down to the kalimba is this one instrument: the two versions
+that are built, the bores you can turn, the parts on the ends, the one on the
+bench, and the bores designed but not yet cut.
+
 ## Built
 
-Two instruments are finished in wood. The three-turn trumpet is the one that
-has been blown.
+Two versions are finished in wood. The three-turn trumpet is the one that has
+been blown.
 
 **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — press-fit, shellacked and blown: 1096mm of bore in twelve sections, with the bell and the mouthpiece on it. It plays, and one of its notes is F4, measured.
 
@@ -21,7 +32,7 @@ has been blown.
 
 ## Turn the bores
 
-Every instrument has a viewer you can drag to turn: a lattice of
+Every version has a viewer you can drag to turn: a lattice of
 blocks for a bore written as a walk, a swept tube for one drawn along a curve.
 (GitHub strips iframes, so on this README each viewer is a link rather than a
 picture.)
@@ -80,7 +91,7 @@ the Greek key wound in and brought back out beside itself. **68 blocks, 1088mm**
 of 10 × 10mm bore in **one section**, because it never leaves its plane. It is in
 ply and press-fit; neither end is fitted yet.
 
-![The greek spiral cut in birch ply and press-fit, lying flat: a square-section bore with its finger joints showing dark along every edge, winding in from the top right to a short bar at the centre and back out to the bottom left](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/greek-spiral-bore-built_web.jpg)
+<p align="center"><img src="images/greek-spiral-bore-built-cropped_web.jpg" alt="The greek spiral cut in birch ply and press-fit, lying flat: a square-section bore with its finger joints showing dark along every edge, winding in from the top right to a short bar at the centre and back out to the bottom left" style="max-height:420px;width:auto;border-radius:10px"></p>
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/meander/greek-key/bore/bore.html" title="The greek spiral bore: sixty-eight blocks of 10mm square section lying flat as a Greek key, winding in to a short bar at the centre and back out beside itself, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -88,7 +99,8 @@ ply and press-fit; neither end is fitted yet.
 
 ## Designed, not yet cut
 
-Every one of these has its cut files, and none has been on the laser yet.
+More bores for the same trumpet. Every one of these has its cut files, and none
+has been on the laser yet.
 
 **[the double spiral](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html)** — the longest on this page
 at **1506mm**, 42 facets of 30°. Two arms half a turn apart, their vertices sampled
@@ -137,8 +149,9 @@ promoted for winning a category outright or tying for one, each carrying the
 numbers that say how hard it coils and what it costs to build; the other ten
 are still in `coil/search`.
 
-The trumpets are not the only designs waiting. Each of the other instruments turns
-too, assembled from its own cut files.
+# The other instruments
+
+Each of these turns too, assembled from its own cut files.
 
 **[kalimba](https://gernreich.github.io/kalimba/)** — a seven-sided body, finger-jointed, whose top face carries a seven-fold knot rosette.
 
@@ -176,12 +189,13 @@ too, assembled from its own cut files.
 <iframe src="https://gernreich.github.io/buzz-disc/buzz-disc-3d.html" title="A buzz disc stood on edge with a cord loop through its two centre holes, with buttons for both designs and a control to spin it, drawn as a solid you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
+# Everything, indexed
+
 ## The instruments
 
 | | |
 | --- | --- |
-| **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | The one that plays: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
-| **[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** | The other instrument in wood: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit and shellacked, with a bell in its port |
+| **[trumpet](https://gernreich.github.io/trumpet-elbows-allowed/)** | One instrument type in many versions, all in one repository: a quarter-size trumpet on a 10 × 10mm square bore, each version a different path for the bore, with one bell and one mouthpiece for all of them. Every version is listed below |
 | **[kalimba](https://gernreich.github.io/kalimba/)** | A seven-sided kalimba body whose front carries a seven-fold knot rosette |
 | **[slapstick](https://gernreich.github.io/slapstick/)** | Two long slats joined at one end; swing it and the free ends clap |
 | **[bullroarer](https://gernreich.github.io/bullroarer/)** | Five blade profiles for a bullroarer, whirled on a cord |
@@ -189,13 +203,17 @@ too, assembled from its own cut files.
 | **[square-bore flute](https://gernreich.github.io/square-flute/)** | A five-hole pentatonic flute in A4, Native American style, with a square bore in 3mm ply: four builds from one acoustic model, box or stack, each with its flue in the bird, in the nest or half in each, and the boxes finger-jointed or flat, carrying the 2017 flute's ideas |
 | **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
 
-## Bores and parts
+## The trumpet, version by version
 
-Pieces of an instrument rather than instruments: trumpet bores, each of which still
-needs the bell and the mouthpiece fitted to it, and those two ends themselves.
+Every row here belongs to the one trumpet above, and all of it is in
+[trumpet-elbows-allowed](https://gernreich.github.io/trumpet-elbows-allowed/). The first two are complete and built. The next
+three are bores that still need the bell and the mouthpiece fitted to them, and
+the last is those two ends themselves.
 
 | | |
 | --- | --- |
+| **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | The one that plays: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
+| **[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** | The other version in wood: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit and shellacked, with a bell in its port |
 | **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
