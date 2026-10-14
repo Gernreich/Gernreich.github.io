@@ -242,7 +242,7 @@ bell and the mouthpiece fitted to them, and the last is those two ends themselve
 | **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
 | **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
-| **[the swept-curve designs](https://gernreich.github.io/swept-curve/)** | Every bore swept along a curve and not yet cut: eight open designs, and four closed rings |
+| **[the swept-curve designs](https://gernreich.github.io/swept-curve/)** | Every bore swept along a curve and not yet cut: six open designs, and four closed rings |
 | **[the bell and the mouthpiece](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
 
 ## The generators
