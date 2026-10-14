@@ -6,6 +6,18 @@ and cuts at real size, and every part is a flat plate joined to other flat plate
 
 The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@LaserMadeMusic)**.
 
+## Built
+
+What exists in wood so far.
+
+| | |
+| --- | --- |
+| <a href="https://gernreich.github.io/trumpet-elbows-allowed/three-turn/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/coil-fold2-long-straight-3t/bore10-coil-fold2-long-straight-3t_web.jpg" alt="The finished trumpet lying on concrete: a ring-stacked mouthpiece at the left, the square-section bore folding through its coil in the middle, and the laminated bell flaring at the right, all of it shellacked dark" width="200"></a> | **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — Press-fit, shellacked and blown: 1096mm of bore in twelve sections, with the bell and the mouthpiece on it. It plays, and one of its notes is F4, measured |
+| <a href="https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113-1000mm-ported-square-narrow-cheek-x2-finished_web.jpg" alt="The finished spiral standing upright on its bell: the faceted band winding a little over two turns in glossy amber-brown, with the straight tail carrying a ring-stacked mouthpiece" width="200"></a> | **[the spiral bore](https://gernreich.github.io/trumpet-elbows-allowed/ribbon-spiral/)** — A metre swept along a flat coil, cut, press-fit and shellacked, with a bell in its port |
+| <a href="https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/greek-spiral-bore-built_web.jpg" alt="The greek spiral cut in birch ply and press-fit, lying flat: a square-section bore winding in to a short bar at the centre and back out" width="200"></a> | **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** — 1088mm of bore in one flat section, in ply and press-fit; neither end is fitted yet |
+| <a href="https://gernreich.github.io/trumpet-elbows-allowed/ends/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bell/bell-round10-153mm-17rings-x3-rim86-built_web.jpg" alt="The bell as built: a stack of laminated ply rings rising from a small square throat to a flat round rim" width="200"></a> | **[the bell](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** — 17 laminated rings, 153mm tall, square throat to a ø86mm rim, glued |
+| <a href="https://gernreich.github.io/trumpet-elbows-allowed/ends/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/parts/mouthpiece/mouthpiece-bore10-trumpet-parts-built_web.jpg" alt="The mouthpiece as built: a square block at one end, a ring-stacked shaft narrowing to a waist, and a small cup at the other" width="200"></a> | **[the mouthpiece](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** — A ring stack with a cup at the lip and a square plate at the instrument, glued |
+
 ![The greek spiral cut in birch ply and press-fit, lying flat: a square-section bore with its finger joints showing dark along every edge, winding in from the top right to a short bar at the centre and back out to the bottom left](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/greek-spiral-bore-built_web.jpg)
 
 <p align="center">
