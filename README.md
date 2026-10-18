@@ -185,10 +185,10 @@ Each of these turns too, built from the same geometry as its cut files.
 <iframe src="https://gernreich.github.io/square-flute/turn.html" title="The square-bore flute: a long square-section box with five finger holes and the bird block over the flue, with buttons to swap between its builds, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** — a four-hole ocarina with the English fingering, from one acoustic model: a G4 box and stack, and five solids finger-jointed at whatever angle their faces meet, an octagonal prism, a cube, a square antiprism, an octahedron and a dodecahedron, each playing in the key its cavity gives it; the buttons swap between them. None is cut yet.
+**[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** — a four-hole ocarina with the English fingering, from one acoustic model: five solids finger-jointed at whatever angle their faces meet, a cube sized to G4, a uniform octagonal prism, a square antiprism, an octahedron and a dodecahedron, the last four each playing in the key its cavity gives it; the buttons swap between them. None is cut yet.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/four-hole-ocarinas/turn.html" title="The four-hole ocarinas: a box, a stack and five finger-jointed solids, each with a beak, a window and four finger holes, with buttons to swap between the builds and every plate's corner numbers, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/four-hole-ocarinas/turn.html" title="The four-hole ocarinas: five finger-jointed solids, each with a beak, a window and four finger holes, with buttons to swap between the builds and every plate's corner numbers, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 **[lyre-harp](https://gernreich.github.io/lyre-harp/)** — a seven-string frame, one closed duct between two cheeks, opening below the strings into its resonator. Its parts are cut, and it is not assembled yet.
@@ -232,7 +232,7 @@ Each of these turns too, built from the same geometry as its cut files.
 | **[buzz-disc](https://gernreich.github.io/buzz-disc/)** | Two designs for a buzz disc, threaded on a cord loop that winds and unwinds |
 | **[square-bore flute](https://gernreich.github.io/square-flute/)** | A five-hole pentatonic flute in A4, Native American style, with a square bore in 3mm ply: six builds from one acoustic model, box or stack, with 3mm or 6mm of wall under the holes and the boxes finger-jointed or flat, each carrying its flue in the bird and in the nest in two colours, to cut either or both, and the 2017 flute's ideas |
 | **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
-| **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3mm ply: a G4 box and stack, and five solids finger-jointed at every angle, from an octagonal prism to a dodecahedron, each in the key its cavity gives it |
+| **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3mm ply: five solids finger-jointed at every angle, a G4 cube, a uniform octagonal prism, a square antiprism, an octahedron and a dodecahedron, each in the key its cavity gives it |
 
 ## The trumpet, version by version
 
