@@ -230,7 +230,7 @@ Each of these turns too, built from the same geometry as its cut files.
 | **[slapstick](https://gernreich.github.io/slapstick/)** | Two long slats joined at one end; swing it and the free ends clap |
 | **[bullroarer](https://gernreich.github.io/bullroarer/)** | Five blade profiles for a bullroarer, whirled on a cord |
 | **[buzz-disc](https://gernreich.github.io/buzz-disc/)** | Two designs for a buzz disc, threaded on a cord loop that winds and unwinds |
-| **[square-bore flute](https://gernreich.github.io/square-flute/)** | A five-hole pentatonic flute in A4, Native American style, with a square bore in 3mm ply: four builds from one acoustic model, box or stack, each with its flue in the bird, in the nest or half in each, and the boxes finger-jointed or flat, carrying the 2017 flute's ideas |
+| **[square-bore flute](https://gernreich.github.io/square-flute/)** | A five-hole pentatonic flute in A4, Native American style, with a square bore in 3mm ply: 18 builds from one acoustic model, box or stack, with 3mm or 6mm of wall under the holes, the flue in the bird, in the nest or half in each, and the boxes finger-jointed or flat, carrying the 2017 flute's ideas |
 | **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
 | **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3mm ply: a G4 box and stack, and five solids finger-jointed at every angle, from an octagonal prism to a dodecahedron, each in the key its cavity gives it |
 
