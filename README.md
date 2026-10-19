@@ -203,6 +203,12 @@ Each of these turns too, built from the same geometry as its cut files.
 <iframe src="https://gernreich.github.io/panpipes/turn.html" title="The panpipes: eight pipes of falling length between a front and a back plate, a plug in each, with a button for each of the four blowing edges, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
+**[practice chanters](https://gernreich.github.io/practice-chanters/)** — a Great Highland bagpipe practice chanter six ways, its bore a triangle, square, pentagon, hexagon, heptagon or octagon of the same area: about 160 plates stacked on two threaded rods, under a stacked cap and mouthpiece, with a bought reed. None is cut yet.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/practice-chanters/turn.html" title="The practice chanters: a long stack of thin polygonal plates with darker finger-hole plates along the front, a wider cap at one end and a round mouthpiece beyond it, with a button for each of the six bores, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
 **[lyre-harp](https://gernreich.github.io/lyre-harp/)** — a seven-string frame, one closed duct between two cheeks, opening below the strings into its resonator. Its parts are cut, and it is not assembled yet.
 
 <p align="center"><img src="https://gernreich.github.io/lyre-harp/photos/lyre-harp-bore30-188x400mm-cheeks-as-cut_web.jpg" alt="The lyre-harp parts as cut, lying side by side on concrete: on the left the front cheek, a long stadium of birch with finger-jointed edges, the string hole near the top, a row of engraved crosses over it and the seven-fold knot rosette below it, with the curved laminations of the hitch-pin block stacked across its lower end; on the right the plain back cheek, with the laminations of the tuning-pin block stacked over the top of its string hole" style="max-height:420px;width:auto;border-radius:10px"></p>
@@ -257,6 +263,7 @@ Cut on the same laser from the same 3mm ply, with the same finger joints.
 | **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3mm ply: nine solids finger-jointed at every angle, from a cube to an icosahedron and a truncated octahedron, each in the key its cavity gives it |
 | **[octagonal flute](https://gernreich.github.io/octagonal-flute/)** | A six-hole transverse flute in D, in 3mm ply: a long octagonal bore of eight finger-jointed strips and a lip-plate embouchure, from one acoustic model |
 | **[panpipes](https://gernreich.github.io/panpipes/)** | Low panpipes, E3 to E4, in 3mm ply: eight closed pipes between two plates, tuned by sliding plugs, with a chamfered, plain, notched or strip blowing edge; or as octagonal or hexagonal tubes glued side to side |
+| **[practice chanters](https://gernreich.github.io/practice-chanters/)** | A Great Highland bagpipe practice chanter in 3mm ply, stacked from cross-section plates, with six bores of one area: triangle, square, pentagon, hexagon, heptagon and octagon, each hole sized to its note by one acoustic model |
 
 ## Beyond the instruments
 
