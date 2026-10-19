@@ -197,6 +197,12 @@ Each of these turns too, built from the same geometry as its cut files.
 <iframe src="https://gernreich.github.io/octagonal-flute/turn.html" title="The octagonal flute: a long eight-sided tube of finger-jointed strips with a lip plate near one end and six finger holes along the top, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
+**[panpipes](https://gernreich.github.io/panpipes/)** — a low raft of eight closed pipes, E3 to E4 in E natural minor: two plates and nine press-fit walls, each pipe tuned by a plug pushed up from below, with four ways to make the blowing edge. None is cut yet.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/panpipes/turn.html" title="The panpipes: eight pipes of falling length between a front and a back plate, a plug in each, with a button for each of the four blowing edges, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
 **[lyre-harp](https://gernreich.github.io/lyre-harp/)** — a seven-string frame, one closed duct between two cheeks, opening below the strings into its resonator. Its parts are cut, and it is not assembled yet.
 
 <p align="center"><img src="https://gernreich.github.io/lyre-harp/photos/lyre-harp-bore30-188x400mm-cheeks-as-cut_web.jpg" alt="The lyre-harp parts as cut, lying side by side on concrete: on the left the front cheek, a long stadium of birch with finger-jointed edges, the string hole near the top, a row of engraved crosses over it and the seven-fold knot rosette below it, with the curved laminations of the hitch-pin block stacked across its lower end; on the right the plain back cheek, with the laminations of the tuning-pin block stacked over the top of its string hole" style="max-height:420px;width:auto;border-radius:10px"></p>
@@ -250,6 +256,7 @@ Cut on the same laser from the same 3mm ply, with the same finger joints.
 | **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
 | **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3mm ply: nine solids finger-jointed at every angle, from a cube to an icosahedron and a truncated octahedron, each in the key its cavity gives it |
 | **[octagonal flute](https://gernreich.github.io/octagonal-flute/)** | A six-hole transverse flute in D, in 3mm ply: a long octagonal bore of eight finger-jointed strips and a lip-plate embouchure, from one acoustic model |
+| **[panpipes](https://gernreich.github.io/panpipes/)** | Low panpipes, E3 to E4, in 3mm ply: eight closed pipes between two plates, tuned by sliding plugs, with a chamfered, plain, notched or strip blowing edge |
 
 ## Beyond the instruments
 
