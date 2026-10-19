@@ -225,6 +225,16 @@ Each of these turns too, built from the same geometry as its cut files.
 <iframe src="https://gernreich.github.io/buzz-disc/buzz-disc-3d.html" title="A buzz disc stood on edge with a cord loop through its two centre holes, with buttons for both designs and a control to spin it, drawn as a solid you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
+# Not an instrument
+
+Cut on the same laser from the same 3mm ply, with the same finger joints.
+
+**[hexagonal dice box](https://gernreich.github.io/hex-dice-box/)** — six finger-jointed walls on a hexagonal floor, a stack of glued insert layers making seven hexagonal pockets for a polyhedral dice set, and a lid held on by 2 × 1mm magnets in rastered indents. Spread layers pulls it apart, magnets too. Not cut yet.
+
+<p align="center">
+<iframe src="https://gernreich.github.io/hex-dice-box/turn.html" title="The hexagonal dice box: six finger-jointed walls on a hexagonal floor, glued insert layers with seven hexagonal pockets, and a lid with a plug held by small magnets, drawn as solid parts you can drag to turn and pull apart" width="100%" height="600" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+</p>
+
 # Everything, indexed
 
 ## The instruments
@@ -240,6 +250,12 @@ Each of these turns too, built from the same geometry as its cut files.
 | **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
 | **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3mm ply: nine solids finger-jointed at every angle, from a cube to an icosahedron and a truncated octahedron, each in the key its cavity gives it |
 | **[octagonal flute](https://gernreich.github.io/octagonal-flute/)** | A six-hole transverse flute in D, in 3mm ply: a long octagonal bore of eight finger-jointed strips and a lip-plate embouchure, from one acoustic model |
+
+## Beyond the instruments
+
+| | |
+| --- | --- |
+| **[hexagonal dice box](https://gernreich.github.io/hex-dice-box/)** | A finger-jointed hexagonal box in 3mm ply with seven hexagonal pockets from glued insert layers, for a polyhedral dice set, and a lid held by 2 × 1mm magnets |
 
 ## The trumpet, version by version
 
