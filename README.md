@@ -209,7 +209,7 @@ Each of these turns too, built from the same geometry as its cut files.
 <iframe src="https://gernreich.github.io/practice-chanters/turn.html" title="The practice chanters: a long stack of thin polygonal plates with darker finger-hole plates along the front, a wider cap at one end and a round mouthpiece beyond it, with a button for each of the six bores, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[bagpipe chanter](https://gernreich.github.io/ghb-chanter/)** — a full Great Highland bagpipe chanter: its conical bore a tapering square of four finger-jointed strips, or a hexagon of six, under a stacked collar and tenon, with the holes of Jeremy Starcher's Dis-Enchanter. It is not cut yet.
+**[bagpipe chanter](https://gernreich.github.io/ghb-chanter/)** — a full Great Highland bagpipe chanter: its conical bore a tapering square of four finger-jointed strips, a hexagon of six or an octagon of eight, under a stacked collar and tenon, with the holes of Jeremy Starcher's Dis-Enchanter. It is not cut yet.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/ghb-chanter/turn.html" title="The bagpipe chanter: four darker tapering strips with finger-jointed edges and a row of holes along the front, a stack of round collar plates and a narrower tenon at the narrow end, and a round foot at the wide end, drawn as solid parts you can drag to turn and pull apart" width="100%" height="700" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -270,7 +270,7 @@ Cut on the same laser from the same 3mm ply, with the same finger joints.
 | **[octagonal flute](https://gernreich.github.io/octagonal-flute/)** | A six-hole transverse flute in D, in 3mm ply: a long octagonal bore of eight finger-jointed strips and a lip-plate embouchure, from one acoustic model |
 | **[panpipes](https://gernreich.github.io/panpipes/)** | Low panpipes, E3 to E4, in 3mm ply: eight closed pipes between two plates, tuned by sliding plugs, with a chamfered, plain, notched or strip blowing edge; or as octagonal or hexagonal tubes glued side to side |
 | **[practice chanters](https://gernreich.github.io/practice-chanters/)** | A Great Highland bagpipe practice chanter in 3mm ply, stacked from cross-section plates, with six bores of one area: triangle, square, pentagon, hexagon, heptagon and octagon, each hole sized to its note by one acoustic model |
-| **[bagpipe chanter](https://gernreich.github.io/ghb-chanter/)** | A full Great Highland bagpipe chanter in 3mm ply: a tapering square bore of four finger-jointed strips or a hexagon of six, with a 3D-printed chanter's holes, each resized for the strip wall |
+| **[bagpipe chanter](https://gernreich.github.io/ghb-chanter/)** | A full Great Highland bagpipe chanter in 3mm ply: a tapering square bore of four finger-jointed strips, a hexagon of six or an octagon of eight, with a 3D-printed chanter's holes, each resized for the strip wall |
 
 ## Beyond the instruments
 
