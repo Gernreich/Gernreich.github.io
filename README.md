@@ -18,6 +18,12 @@ A finger-jointed hexagonal box in 3mm ply with seven hexagonal pockets from glue
 
 A bagpipe tune player begun in BASIC on an IBM PCjr and written in Visual Basic 3 between 1995 and 2000, with its source and a web edition that plays the tunes in the browser. **[Open it](https://gernreich.github.io/windbag/)**
 
+## Gernreich writing
+
+A script in which every letter is two steps on a square grid and every word is one
+unbroken line, with a live writer and reader, and Article 1 of the Universal Declaration
+of Human Rights drawn as a single line. **[Open it](https://gernreich.github.io/gernreich-writing/)**
+
 ## Coprime intervals
 
 Coprime pairs as a grid of rays, as Turk's head knots and as the musical intervals inside one octave. **[Open it](https://gernreich.github.io/coprime-intervals/)**
