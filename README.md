@@ -28,6 +28,12 @@ of Human Rights drawn as a single line. **[Open it](https://gernreich.github.io/
 
 Coprime pairs as a grid of rays, as Turk's head knots and as the musical intervals inside one octave. **[Open it](https://gernreich.github.io/coprime-intervals/)**
 
+## Lapping
+
+Two runners on a track: the faster laps the slower every Z = XY/(X − Y), the equation
+Michael worked out at sixteen. The same equation gives when clock hands meet, the month
+of the Moon's phases and how often the Earth overtakes Mars. **[Open it](https://gernreich.github.io/lapping/)**
+
 ## Sixteen boolean functions
 
 Every two-input logic function, with its expressions enumerated, the weights a small neural network uses for each, and every function applied to every pair. **[Open it](https://gernreich.github.io/Logic-Research/)**
