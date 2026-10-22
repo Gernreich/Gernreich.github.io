@@ -1,6 +1,6 @@
 # LaserMadeMusic
 
-[← All projects](https://gernreich.github.io/)
+**[← All projects](https://gernreich.github.io/)**
 
 Musical instruments cut from 3mm Baltic birch plywood on a laser, and the cut files to
 build them. Everything here is millimetre-true at `1 user unit = 1mm`, so a file prints
