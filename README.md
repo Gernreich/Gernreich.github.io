@@ -47,6 +47,13 @@ Data stored as the stacking order of close-packed layers of silicon or carbon at
 with a spacer layer between every bit and an atomic force microscope tip reading it from
 the side. Michael thought it up after reading Drexler's *Nanosystems*. **[Open it](https://gernreich.github.io/atomic-layer-memory/)**
 
+## Knot crossings
+
+Two ropes crossing each other 8 times, and all 256 ways to choose over or under, drawn
+by hand and numbered in binary. The scans, the index of knots Michael recognised, and
+every drawing worked out again and checked: square knot, sheet bend, Carrick bend and
+their relatives. **[Open it](https://gernreich.github.io/knot-crossings/)**
+
 ## Sixteen boolean functions
 
 Every two-input logic function, with its expressions enumerated, the weights a small neural network uses for each, and every function applied to every pair. **[Open it](https://gernreich.github.io/Logic-Research/)**
