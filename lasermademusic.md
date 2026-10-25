@@ -301,6 +301,7 @@ Parts too fiddly to draw by hand, made by a script instead.
 | **[the stretched lattice](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/coil/fold2-long-straight/coils.html)** | Bores whose straight blocks run longer than their turns, so one walk gives 548mm where it gave 352 |
 | **[spirals](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/coil/search/)** | Coiling bore walks that turn about an axis while advancing along it, with what each costs to build |
 | **[knotwork-soundholes](https://gernreich.github.io/knotwork-soundholes/)** | Knotwork rosettes for an instrument sound hole, by leads and bights |
+| **[living-hinge](https://gernreich.github.io/living-hinge/)** | Lattice-hinge slit patterns that let a flat sheet bend, for the curved surfaces of an instrument |
 
 ## The tools
 

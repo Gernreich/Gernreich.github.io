@@ -44,10 +44,6 @@ the side. Michael thought it up after reading Drexler's *Nanosystems*. **[Open i
 
 Every two-input logic function, with its expressions enumerated, the weights a small neural network uses for each, and every function applied to every pair. **[Open it](https://gernreich.github.io/Logic-Research/)**
 
-## Living hinge
-
-Parametric lattice-hinge patterns for a laser cutter, so a flat sheet will bend. **[Open it](https://gernreich.github.io/living-hinge/)**
-
 ## Best bang for the buck
 
 Which folders to clean up first on a full drive, and where to stop: the running-total curve and its point nearest the origin. **[Open it](https://gernreich.github.io/bang-for-the-buck/)**
