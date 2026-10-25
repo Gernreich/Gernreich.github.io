@@ -1,4 +1,4 @@
-# Gernreich
+# Gernreich (Michael's Ideas)
 
 Projects by Michael Carnright, each with its own page.
 
