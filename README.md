@@ -34,6 +34,12 @@ Two runners on a track: the faster laps the slower every Z = XY/(X − Y), the e
 Michael worked out at sixteen. The same equation gives when clock hands meet, the month
 of the Moon's phases and how often the Earth overtakes Mars. **[Open it](https://gernreich.github.io/lapping/)**
 
+## Atomic layer memory
+
+Data stored as the stacking order of close-packed layers of silicon or carbon atoms,
+with a spacer layer between every bit and an atomic force microscope tip reading it from
+the side. Michael thought it up after reading Drexler's *Nanosystems*. **[Open it](https://gernreich.github.io/atomic-layer-memory/)**
+
 ## Sixteen boolean functions
 
 Every two-input logic function, with its expressions enumerated, the weights a small neural network uses for each, and every function applied to every pair. **[Open it](https://gernreich.github.io/Logic-Research/)**
