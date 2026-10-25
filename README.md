@@ -28,6 +28,13 @@ of Human Rights drawn as a single line. **[Open it](https://gernreich.github.io/
 
 Coprime pairs as a grid of rays, as Turk's head knots and as the musical intervals inside one octave. **[Open it](https://gernreich.github.io/coprime-intervals/)**
 
+## Harmonics
+
+Michael's 1992 search for a consonance rating for musical intervals: BASIC programs
+written on a second-hand IBM PCjr, then Fortran and C, that count how often each ratio
+turns up among pairs of whole numbers. The scans, exact transcriptions and what each
+program found; the starting point of Coprime intervals. **[Open it](https://gernreich.github.io/harmonics/)**
+
 ## Lapping
 
 Two runners on a track: the faster laps the slower every Z = XY/(X − Y), the equation
