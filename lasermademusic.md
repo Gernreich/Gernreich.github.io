@@ -308,6 +308,7 @@ Parts too fiddly to draw by hand, made by a script instead.
 | | |
 | --- | --- |
 | **[lasermade-tools](https://gernreich.github.io/lasermade-tools/)** | The page builder and the shared checkers — what a writeup claims about itself, what a cut file claims about its colours, whether an image carries metadata — and the 3D viewers for the hand-drawn instruments |
+| **[bore-tmm](https://gernreich.github.io/bore-tmm/)** | What a bore plays before it is cut: a transfer-matrix model in Rust that reads every bore back out of its cut files, checks each note against its target, predicts the trumpets, and analyses sweeps from a speaker-and-microphone measuring rig |
 
 ## Colour is the cut order
 
