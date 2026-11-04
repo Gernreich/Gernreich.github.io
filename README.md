@@ -52,7 +52,10 @@ the side. Michael thought it up after reading Drexler's *Nanosystems*. **[Open i
 Two ropes crossing each other 8 times, and all 256 ways to choose over or under, drawn
 by hand and numbered in binary. The scans, the index of knots Michael recognised, and
 every drawing worked out again and checked: square knot, sheet bend, Carrick bend and
-their relatives. **[Open it](https://gernreich.github.io/knot-crossings/)**
+their relatives. Each drawing is also closed into a loop and named as a knot or link
+by its Jones and Alexander polynomials (the Carrick bend closes to the Carrick mat), and
+every knotted one carries its number in *The Ashley Book of Knots*, matched through
+Eric's (NautiKnots) enumeration on the IGKT forum. **[Open it](https://gernreich.github.io/knot-crossings/)**
 
 ## Sixteen boolean functions
 
