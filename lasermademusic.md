@@ -324,3 +324,7 @@ This page is `lasermademusic.md` rendered by `md2html.py` into `lasermademusic.h
 built on the server, so it goes stale silently unless it is regenerated after every edit.
 
 Released under [CC0 1.0](LICENSE).
+
+## Credits
+
+These projects are made by Michael Gernreich with [Claude](https://www.anthropic.com/claude) (Anthropic), working in Claude Code, which co-wrote much of their code and documentation. Commits Claude made carry a `Co-Authored-By: Claude` line.
