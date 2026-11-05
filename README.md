@@ -61,6 +61,16 @@ Eric's (NautiKnots) enumeration on the IGKT forum. **[Open it](https://gernreich
 
 Every two-input logic function, with its expressions enumerated, the weights a small neural network uses for each, and every function applied to every pair. **[Open it](https://gernreich.github.io/Logic-Research/)**
 
+## Gray and de Bruijn
+
+Gray codes and de Bruijn sequences walked through three alphabets from these projects:
+the atomic-layer-memory stacks, Zellweger's Logic Alphabet and the Gernreich writing
+grid. A ruler that reads its own position through a nine-cell window, two encoder discs,
+and two rings: every truth table across from its negation, and the 28 grid letters with
+the least turning possible. Each comes as a laser cut file, and there are 3D views of the
+stacks and of the ring on a four-dimensional cube. Proposed, worked out and built by
+[Claude](https://www.anthropic.com/claude) at Michael's request. **[Open it](https://gernreich.github.io/gray-and-de-bruijn/)**
+
 ## Best bang for the buck
 
 Which folders to clean up first on a full drive, and where to stop: the running-total curve and its point nearest the origin. **[Open it](https://gernreich.github.io/bang-for-the-buck/)**
