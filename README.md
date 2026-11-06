@@ -4,7 +4,7 @@ Projects by Michael Carnright, each with its own page.
 
 ## LaserMadeMusic
 
-Musical instruments cut from 3mm Baltic birch plywood on a laser, and the files to
+Musical instruments cut from 3 mm Baltic birch plywood on a laser, and the files to
 build them. Trumpets, flutes, ocarinas, panpipes, bagpipe chanters, a lyre-harp, a
 kalimba and more, with the generators and tools behind them. The cutting and the playing
 are on the [LaserMadeMusic channel](https://www.youtube.com/@LaserMadeMusic).
@@ -12,7 +12,7 @@ are on the [LaserMadeMusic channel](https://www.youtube.com/@LaserMadeMusic).
 
 ## Hexagonal dice box
 
-A finger-jointed hexagonal box in 3mm ply with seven hexagonal pockets from glued insert layers, for a polyhedral dice set, and a lid held by 2 × 1mm magnets. **[Open it](https://gernreich.github.io/hex-dice-box/)**
+A finger-jointed hexagonal box in 3 mm ply with seven hexagonal pockets from glued insert layers, for a polyhedral dice set, and a lid held by 2 × 1 mm magnets. **[Open it](https://gernreich.github.io/hex-dice-box/)**
 
 ## Win(d)Bag
 

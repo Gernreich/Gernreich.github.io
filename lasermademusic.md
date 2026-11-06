@@ -2,7 +2,7 @@
 
 **[← All projects](https://gernreich.github.io/)**
 
-Musical instruments cut from 3mm Baltic birch plywood on a laser, and the cut files to
+Musical instruments cut from 3 mm Baltic birch plywood on a laser, and the cut files to
 build them. Everything here is millimetre-true at `1 user unit = 1mm`, so a file prints
 and cuts at real size, and every part is a flat plate joined to other flat plates.
 
@@ -11,7 +11,7 @@ The cutting and the playing are on **[LaserMadeMusic](https://www.youtube.com/@L
 # The trumpet
 
 One instrument type in many versions. Every version is a quarter-size trumpet on a
-10 × 10mm square bore, with the same bell and the same mouthpiece; what changes
+10 × 10 mm square bore, with the same bell and the same mouthpiece; what changes
 from one to the next is the bore, the path the tube takes between them. The bore
 is built two ways, and each way has its own repository:
 
@@ -30,7 +30,7 @@ bench, and the bores designed but not yet cut.
 Two versions are finished in wood, one of each kind, and both have been blown.
 The three-turn trumpet's note is measured; the spiral's is not yet reported.
 
-**[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — grid blocks, press-fit, shellacked and blown: 1096mm of bore in twelve sections, with the bell and the mouthpiece on it. It plays, and one of its notes is F4, measured.
+**[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — grid blocks, press-fit, shellacked and blown: 1096 mm of bore in twelve sections, with the bell and the mouthpiece on it. It plays, and one of its notes is F4, measured.
 
 <p align="center"><a href="https://gernreich.github.io/trumpet-elbows-allowed/three-turn/"><img src="https://gernreich.github.io/trumpet-elbows-allowed/built/coil-fold2-long-straight-3t/bore10-coil-fold2-long-straight-3t_web.jpg" alt="The finished trumpet lying on concrete: a ring-stacked mouthpiece at the left, the square-section bore folding through its coil in the middle, and the laminated bell flaring at the right, all of it shellacked dark" style="max-height:560px;width:auto;border-radius:10px"></a></p>
 
@@ -45,32 +45,32 @@ blocks for a grid-block bore, a swept tube for a swept curve.
 (GitHub strips iframes, so on this README each viewer is a link rather than a
 picture.)
 
-**[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — **1096mm** of
+**[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** — **1096 mm** of
 bore in **twelve sections**, winding three whole turns, with a mouthpiece at one
-end and the 153mm bell at the other. It is press-fit, shellacked and blown, and
-one of its notes is **F4, 349.2 Hz**, measured. Its straight blocks run 30mm
-and its turns are 16mm cubes, which is where the length comes from.
+end and the 153 mm bell at the other. It is press-fit, shellacked and blown, and
+one of its notes is **F4, 349.2 Hz**, measured. Its straight blocks run 30 mm
+and its turns are 16 mm cubes, which is where the length comes from.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/built/coil-fold2-long-straight-3t/fold2-long-straight-3t.html" title="The three-turn trumpet bore: 1096mm of 10mm square section coiling three whole turns about one axis, drawn as a chain of coloured blocks you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/built/coil-fold2-long-straight-3t/fold2-long-straight-3t.html" title="The three-turn trumpet bore: 1096 mm of 10 mm square section coiling three whole turns about one axis, drawn as a chain of coloured blocks you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** — **1000mm** of
+**[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** — **1000 mm** of
 centreline in 19 facets of 45°, winding out from R34.7 to R112.9 between two flat
 cheeks. The built swept curve. Cut, press-fit, shellacked and
 blown, with a bell in its port; its note is not yet reported.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/swept-curve/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html" title="The spiral bore: a metre of 10mm square section swept along a flat coil in nineteen 45 degree facets, winding out from a small centre to a straight tail, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/swept-curve/built/ribbon-spiral-bore10-45deg-R35to113/ribbon-spiral-bore10-45deg-R35to113.html" title="The spiral bore: a metre of 10 mm square section swept along a flat coil in nineteen 45 degree facets, winding out from a small centre to a straight tail, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 ## And the parts on the ends of them
 
-A bore is only the tube. Both of these are stacks of laminated 3mm rings, and
+A bore is only the tube. Both of these are stacks of laminated 3 mm rings, and
 both turn the same way — the slider stacks them a ring at a time, which is the
 useful part.
 
-**The bell** — 17 rings of 9mm, **153mm** tall, a 10mm square throat opening to
+**The bell** — 17 rings of 9 mm, **153 mm** tall, a 10 mm square throat opening to
 a **ø86mm** round rim. The section morphs square to round on the way up while
 holding area.
 
@@ -78,10 +78,10 @@ holding area.
 <iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bell/bell-round10-153mm-17rings-x3-rim86-turn.html" title="A bell built from seventeen laminated rings, drawn as a solid you can drag to turn: a square throat flaring to a round rim" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**The mouthpiece** — 30 rings of 3mm, **90mm** tall, a 16mm square plate at the
+**The mouthpiece** — 30 rings of 3 mm, **90 mm** tall, a 16 mm square plate at the
 instrument and a ø23mm rim at the lip — ø17 where the lip actually sits —
 narrowing to a **ø3.66mm** throat before the backbore. Full size on a quarter-size instrument, which is the point of it.
-The one on the built three-turn trumpet is shorter, 24 rings and 72mm.
+The one on the built three-turn trumpet is shorter, 24 rings and 72 mm.
 
 <p align="center">
 <iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/mouthpiece/mouthpiece-bore10-trumpet-parts-turn.html" title="A mouthpiece built from thirty laminated rings, drawn as a solid you can drag to turn: a square plate at the instrument, a cup at the lip, and the throat between them" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
@@ -89,21 +89,21 @@ The one on the built three-turn trumpet is shorter, 24 rings and 72mm.
 
 **[the bell and the mouthpiece](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** has the
 generators that draw them, and both sheets listed with their sections and
-isometrics. Every bore is on the same 10mm channel, so one of each serves all
+isometrics. Every bore is on the same 10 mm channel, so one of each serves all
 of them.
 
 ## On the bench
 
 **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** — the most
 recent bore to be cut, and not finished: a trumpet bore drawn as a flat meander,
-the Greek key wound in and brought back out beside itself. **68 blocks, 1088mm**
-of 10 × 10mm bore in **one section**, because it never leaves its plane. It is in
+the Greek key wound in and brought back out beside itself. **68 blocks, 1088 mm**
+of 10 × 10 mm bore in **one section**, because it never leaves its plane. It is in
 ply and press-fit; neither end is fitted yet.
 
 <p align="center"><img src="images/greek-spiral-bore-built-cropped_web.jpg" alt="The greek spiral cut in birch ply and press-fit, lying flat: a square-section bore with its finger joints showing dark along every edge, winding in from the top right to a short bar at the centre and back out to the bottom left" style="max-height:420px;width:auto;border-radius:10px"></p>
 
 <p align="center">
-<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/meander/greek-key/bore/bore.html" title="The greek spiral bore: sixty-eight blocks of 10mm square section lying flat as a Greek key, winding in to a short bar at the centre and back out beside itself, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/meander/greek-key/bore/bore.html" title="The greek spiral bore: sixty-eight blocks of 10 mm square section lying flat as a Greek key, winding in to a short bar at the centre and back out beside itself, drawn as a chain of coloured cubes you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 ## Designed, not yet cut
@@ -117,17 +117,17 @@ Four of them here. **[swept-curve](https://gernreich.github.io/swept-curve/)** l
 every one, with the closed rings.
 
 **[the double spiral](https://gernreich.github.io/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html)** — the longest on this page
-at **1506mm**, 42 facets of 30°. Two arms half a turn apart, their vertices sampled
+at **1506 mm**, 42 facets of 30°. Two arms half a turn apart, their vertices sampled
 every facet off **a smooth Archimedean spiral**, `r = R0 + b·θ` from R62 and rising
-46mm a turn, joined at the centre by an arc off R30 and a straight. Winding in and
+46 mm a turn, joined at the centre by an arc off R30 and a straight. Winding in and
 back out is what gets **both** ends to the rim: a coil that only winds in has to stop
-somewhere, and that somewhere is enclosed. 86 parts on two sheets, the cheek plate 237 × 244mm.
+somewhere, and that somewhere is enclosed. 86 parts on two sheets, the cheek plate 237 × 244 mm.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html" title="A metre and a half of 10 by 10mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/swept-curve/double-spiral/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm/ribbon-double-spiral-bore10-30deg-R62-pitch46-1506mm.html" title="A metre and a half of 10 by 10 mm bore wound flat as a double spiral: two interleaved arms winding in to meet at the centre, with a short straight lead leaving the rim at the top and another at the bottom, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the double volute](https://gernreich.github.io/swept-curve/volute/double-volute-bore10-45deg-R94-step60/ribbon-double-volute-bore10-45deg-R94-step60.html)** — **1180mm**, the same
+**[the double volute](https://gernreich.github.io/swept-curve/volute/double-volute-bore10-45deg-R94-step60/ribbon-double-volute-bore10-45deg-R94-step60.html)** — **1180 mm**, the same
 skeleton on a different curve. Where the double spiral samples one smooth spiral, this
 is **a chain of semicircles**: the radius holds all the way across each arc and steps
 only at the joins, about two alternating centres whose midpoint is the eye. That is
@@ -137,25 +137,25 @@ openings **180.00°** apart for nothing, because the two ends are one end and it
 half-turn.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/swept-curve/volute/double-volute-bore10-45deg-R94-step60/ribbon-double-volute-bore10-45deg-R94-step60.html" title="1180mm of 10 by 10mm bore wound flat as a double volute: two interleaved arms of straight-sided semicircles winding in to meet at the eye, with a straight lead leaving at the upper right and another at the lower left, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/swept-curve/volute/double-volute-bore10-45deg-R94-step60/ribbon-double-volute-bore10-45deg-R94-step60.html" title="1180 mm of 10 by 10 mm bore wound flat as a double volute: two interleaved arms of straight-sided semicircles winding in to meet at the eye, with a straight lead leaving at the upper right and another at the lower left, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 **[the three-lobe serpentine with collinear ends](https://gernreich.github.io/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html)** — a metre
 laid out long: three half-circles of R64 joined by straights, then a quarter turn to
-bring the ends opposed. 28 facets of 30°, 58 parts, and its cheek sheet is 572 × 251mm,
+bring the ends opposed. 28 facets of 30°, 58 parts, and its cheek sheet is 572 × 251 mm,
 which is most of the bed.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/swept-curve/three-lobe-serpentine-with-collinear-ends/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64/three-lobe-serpentine-with-collinear-ends-bore10-30deg-3lobes-R64.html" title="A metre of 10 by 10 mm bore laid out flat as three rounded lobes in a row, with a straight lead at each end pointing opposite ways, drawn as a solid tube you can drag to turn" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
-**[the ess](https://gernreich.github.io/swept-curve/ess/ribbon-ess-bore10-45deg-5arc/ribbon-ess-bore10-45deg-5arc.html)** — **836mm** at 45° facets, a
+**[the ess](https://gernreich.github.io/swept-curve/ess/ribbon-ess-bore10-45deg-5arc/ribbon-ess-bore10-45deg-5arc.html)** — **836 mm** at 45° facets, a
 trough of R55 and a crest of R55, level at both ends. Nothing nests here: the
 straight riser between the lobes is structural, because where the curvature reverses
 at a single vertex the two offset walls cross.
 
 <p align="center">
-<iframe src="https://gernreich.github.io/swept-curve/ess/ribbon-ess-bore10-45deg-5arc/ribbon-ess-bore10-45deg-5arc.html" title="836mm of 10 by 10mm bore drawn as a solid tube you can drag to turn: it doubles back on itself into a long narrow loop, with a straight lead leaving at the lower left and another at the upper right" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/swept-curve/ess/ribbon-ess-bore10-45deg-5arc/ribbon-ess-bore10-45deg-5arc.html" title="836 mm of 10 by 10 mm bore drawn as a solid tube you can drag to turn: it doubles back on itself into a long narrow loop, with a straight lead leaving at the lower left and another at the upper right" width="100%" height="520" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 ### Grid blocks
@@ -228,7 +228,7 @@ Each of these turns too, built from the same geometry as its cut files.
 <p align="center"><img src="https://gernreich.github.io/lyre-harp/photos/lyre-harp-bore30-188x400mm-cheeks-as-cut_web.jpg" alt="The lyre-harp parts as cut, lying side by side on concrete: on the left the front cheek, a long stadium of birch with finger-jointed edges, the string hole near the top, a row of engraved crosses over it and the seven-fold knot rosette below it, with the curved laminations of the hitch-pin block stacked across its lower end; on the right the plain back cheek, with the laminations of the tuning-pin block stacked over the top of its string hole" style="max-height:420px;width:auto;border-radius:10px"></p>
 
 <p align="center">
-<iframe src="https://gernreich.github.io/lyre-harp/lyre-harp-bore30-188x400mm/lyre-harp-bore30-188x400mm.html" title="The lyre-harp frame: two flat stadium-shaped cheeks 188 by 400mm with the duct panels, tuning-pin block and hitch-pin block between them, drawn as solid parts you can drag to turn" width="100%" height="640" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
+<iframe src="https://gernreich.github.io/lyre-harp/lyre-harp-bore30-188x400mm/lyre-harp-bore30-188x400mm.html" title="The lyre-harp frame: two flat stadium-shaped cheeks 188 by 400 mm with the duct panels, tuning-pin block and hitch-pin block between them, drawn as solid parts you can drag to turn" width="100%" height="640" style="border:1px solid #2a2f36;border-radius:10px;max-width:980px" loading="lazy"></iframe>
 </p>
 
 **[slapstick](https://gernreich.github.io/slapstick/)** — two long slats joined by a rope at one end; swing it and the free ends clap.
@@ -257,19 +257,19 @@ Each of these turns too, built from the same geometry as its cut files.
 
 | | |
 | --- | --- |
-| **trumpet** — **[grid blocks](https://gernreich.github.io/trumpet-elbows-allowed/)** · **[swept curves](https://gernreich.github.io/swept-curve/)** | One instrument type in many versions: a quarter-size trumpet on a 10 × 10mm square bore, each version a different path for the bore, with one bell and one mouthpiece for all of them. Its bores are walked through a grid of blocks or swept along a curve, a repository each. Every version is listed below |
+| **trumpet** — **[grid blocks](https://gernreich.github.io/trumpet-elbows-allowed/)** · **[swept curves](https://gernreich.github.io/swept-curve/)** | One instrument type in many versions: a quarter-size trumpet on a 10 × 10 mm square bore, each version a different path for the bore, with one bell and one mouthpiece for all of them. Its bores are walked through a grid of blocks or swept along a curve, a repository each. Every version is listed below |
 | **[kalimba](https://gernreich.github.io/kalimba/)** | A seven-sided kalimba body whose front carries a seven-fold knot rosette |
 | **[slapstick](https://gernreich.github.io/slapstick/)** | Two long slats joined at one end; swing it and the free ends clap |
 | **[bullroarer](https://gernreich.github.io/bullroarer/)** | Five blade profiles for a bullroarer, whirled on a cord |
 | **[buzz-disc](https://gernreich.github.io/buzz-disc/)** | Two designs for a buzz disc, threaded on a cord loop that winds and unwinds |
-| **[square-bore flute](https://gernreich.github.io/square-flute/)** | A five-hole pentatonic flute in A4, Native American style, with a square bore in 3mm ply: six builds from one acoustic model, box or stack, with 3mm or 6mm of wall under the holes and the boxes finger-jointed or flat, each carrying its flue in the bird and in the nest in two colours, to cut either or both, and the 2017 flute's ideas |
-| **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400mm: one closed duct between two cheeks, opening below the strings into its resonator |
-| **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3mm ply: twelve solids finger-jointed at every angle, from a cube to an icosahedron, a rhombic dodecahedron and two Johnson solids, each in the key its cavity gives it |
-| **[octagonal flute](https://gernreich.github.io/octagonal-flute/)** | A six-hole transverse flute in D, in 3mm ply: a long octagonal bore of eight finger-jointed strips and a lip-plate embouchure, from one acoustic model |
-| **[panpipes](https://gernreich.github.io/panpipes/)** | Low panpipes, E3 to E4, in 3mm ply: eight closed pipes between two plates, tuned by sliding plugs, with a chamfered, plain, notched or strip blowing edge; or as octagonal or hexagonal tubes glued side to side |
-| **[practice chanters](https://gernreich.github.io/practice-chanters/)** | A Great Highland bagpipe practice chanter in 3mm ply: stacked from cross-section plates round an octagonal bore, with a measured chanter's holes; or glued from long strips, a square or an octagon, two of them with those holes and one with holes from an acoustic model |
-| **[bagpipe chanter](https://gernreich.github.io/ghb-chanter/)** | A full Great Highland bagpipe chanter in 3mm ply: a tapering square bore of four finger-jointed strips, a hexagon of six or an octagon of eight, with a 3D-printed chanter's holes, each resized for the strip wall |
-| **[uilleann chanter](https://gernreich.github.io/uilleann-chanter/)** | An uilleann pipe chanter in 3mm ply, Craig Fischer's square chanter: a tapering square bore of butt-jointed strips with a lid that comes off for tuning, his holes, and his bore enlargements as a greyscale engrave |
+| **[square-bore flute](https://gernreich.github.io/square-flute/)** | A five-hole pentatonic flute in A4, Native American style, with a square bore in 3 mm ply: six builds from one acoustic model, box or stack, with 3 mm or 6 mm of wall under the holes and the boxes finger-jointed or flat, each carrying its flue in the bird and in the nest in two colours, to cut either or both, and the 2017 flute's ideas |
+| **[lyre-harp](https://gernreich.github.io/lyre-harp/)** | A seven-string lyre-harp frame, 188 × 400 mm: one closed duct between two cheeks, opening below the strings into its resonator |
+| **[four-hole ocarinas](https://gernreich.github.io/four-hole-ocarinas/)** | A four-hole ocarina with the English fingering, in 3 mm ply: twelve solids finger-jointed at every angle, from a cube to an icosahedron, a rhombic dodecahedron and two Johnson solids, each in the key its cavity gives it |
+| **[octagonal flute](https://gernreich.github.io/octagonal-flute/)** | A six-hole transverse flute in D, in 3 mm ply: a long octagonal bore of eight finger-jointed strips and a lip-plate embouchure, from one acoustic model |
+| **[panpipes](https://gernreich.github.io/panpipes/)** | Low panpipes, E3 to E4, in 3 mm ply: eight closed pipes between two plates, tuned by sliding plugs, with a chamfered, plain, notched or strip blowing edge; or as octagonal or hexagonal tubes glued side to side |
+| **[practice chanters](https://gernreich.github.io/practice-chanters/)** | A Great Highland bagpipe practice chanter in 3 mm ply: stacked from cross-section plates round an octagonal bore, with a measured chanter's holes; or glued from long strips, a square or an octagon, two of them with those holes and one with holes from an acoustic model |
+| **[bagpipe chanter](https://gernreich.github.io/ghb-chanter/)** | A full Great Highland bagpipe chanter in 3 mm ply: a tapering square bore of four finger-jointed strips, a hexagon of six or an octagon of eight, with a 3D-printed chanter's holes, each resized for the strip wall |
+| **[uilleann chanter](https://gernreich.github.io/uilleann-chanter/)** | An uilleann pipe chanter in 3 mm ply, Craig Fischer's square chanter: a tapering square bore of butt-jointed strips with a lid that comes off for tuning, his holes, and his bore enlargements as a greyscale engrave |
 
 ## The trumpet, version by version
 
@@ -281,11 +281,11 @@ bell and the mouthpiece fitted to them, and the last is those two ends themselve
 
 | | |
 | --- | --- |
-| **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | Built and blown, with one note measured: 1096mm of 10 × 10mm bore coiling three whole turns, with the bell and the mouthpiece on it |
+| **[the three-turn trumpet](https://gernreich.github.io/trumpet-elbows-allowed/three-turn/)** | Built and blown, with one note measured: 1096 mm of 10 × 10 mm bore coiling three whole turns, with the bell and the mouthpiece on it |
 | **[the spiral bore](https://gernreich.github.io/swept-curve/ribbon-spiral/)** | The other version in wood, and a swept curve: a metre swept along a flat coil, 19 facets of 45°, cut, press-fit, shellacked and blown, with a bell in its port |
-| **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10mm |
+| **[the switchback trumpet](https://gernreich.github.io/trumpet-elbows-allowed/switchback/)** | A trumpet bore that folds back on itself twice, in six sections, at 10 mm |
 | **[the greek spiral](https://gernreich.github.io/trumpet-elbows-allowed/greek-spiral/)** | A trumpet bore drawn as a flat meander — the Greek key, wound in and brought back out beside itself, in one piece |
-| **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040mm wound six times at 42.7mm a turn, cutting 16 elbows to get there |
+| **[the tight coil](https://gernreich.github.io/trumpet-elbows-allowed/tight-coil/)** | The tightest trumpet coil that does not touch itself: 1040 mm wound six times at 42.7 mm a turn, cutting 16 elbows to get there |
 | **[the swept-curve designs](https://gernreich.github.io/swept-curve/)** | Every bore swept along a curve and not yet cut: six open designs, and four closed rings |
 | **[the bell and the mouthpiece](https://gernreich.github.io/trumpet-elbows-allowed/ends/)** | The bell and the mouthpiece, shared by every trumpet built on that channel |
 
@@ -298,7 +298,7 @@ Parts too fiddly to draw by hand, made by a script instead.
 | **[the bore generator](https://gernreich.github.io/trumpet-elbows-allowed/#the-toolchain)** | Turns a bore written as a walk through a lattice of blocks into checked cut files |
 | **[the design library](https://gernreich.github.io/trumpet-elbows-allowed/#what-is-in-here)** | Every bore worked out so far, built into cut files — the corpus the generator regresses against. Elbows are allowed: a turn that cannot fold is cut as one rather than refused |
 | **[the ribbon bore](https://gernreich.github.io/swept-curve/#the-generator)** | Constant cross-section along any planar curve, with the walls faceted between two flat cheeks |
-| **[the stretched lattice](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/coil/fold2-long-straight/coils.html)** | Bores whose straight blocks run longer than their turns, so one walk gives 548mm where it gave 352 |
+| **[the stretched lattice](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/coil/fold2-long-straight/coils.html)** | Bores whose straight blocks run longer than their turns, so one walk gives 548 mm where it gave 352 |
 | **[spirals](https://gernreich.github.io/trumpet-elbows-allowed/parts/bore/concept/walk/coil/search/)** | Coiling bore walks that turn about an axis while advancing along it, with what each costs to build |
 | **[knotwork-soundholes](https://gernreich.github.io/knotwork-soundholes/)** | Knotwork rosettes for an instrument sound hole, by leads and bights |
 | **[living-hinge](https://gernreich.github.io/living-hinge/)** | Lattice-hinge slit patterns that let a flat sheet bend, for the curved surfaces of an instrument |
