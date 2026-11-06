@@ -55,7 +55,9 @@ every drawing worked out again and checked: square knot, sheet bend, Carrick ben
 their relatives. Each drawing is also closed into a loop and named as a knot or link
 by its Jones and Alexander polynomials (the Carrick bend closes to the Carrick mat), and
 every knotted one carries its number in *The Ashley Book of Knots*, matched through
-Eric's (NautiKnots) enumeration on the IGKT forum. **[Open it](https://gernreich.github.io/knot-crossings/)**
+Eric's (NautiKnots) enumeration on the IGKT forum. Any drawing can also be turned in
+3D as two ropes, loose or joined, plain or laid. **[Open it](https://gernreich.github.io/knot-crossings/)**
+· **[Turn it in 3D](https://gernreich.github.io/knot-crossings/turn.html)**
 
 ## Sixteen boolean functions
 
