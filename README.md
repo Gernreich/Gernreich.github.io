@@ -77,7 +77,7 @@ stacks and of the ring on a four-dimensional cube. Proposed, worked out and buil
 
 Which folders to clean up first on a full drive, and where to stop: the running-total curve and its point nearest the origin. **[Open it](https://gernreich.github.io/bang-for-the-buck/)**
 
-This page is `README.md` rendered by `md2html.py` into `index.html` and committed, not
+This page is `README.md` rendered by `md2html` into `index.html` and committed, not
 built on the server, so it goes stale silently unless it is regenerated after every edit.
 
 Released under [CC0 1.0](LICENSE).

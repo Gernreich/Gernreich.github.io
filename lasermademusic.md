@@ -316,11 +316,11 @@ Shared by every repository here: **blue engraves, then green → orange → cyan
 with black always the cut that frees the part, and **violet `#8000ff` meaning skip**. A
 file uses only the stages it needs.
 
-The one deliberate exception is `test-ladder.py`, where colour carries cut *speed* rather
+The one deliberate exception is `test-ladder`, where colour carries cut *speed* rather
 than order — because splitting an import into layers by colour is the only place a laser
 importer will let a separate speed live.
 
-This page is `lasermademusic.md` rendered by `md2html.py` into `lasermademusic.html` and committed, not
+This page is `lasermademusic.md` rendered by `md2html` into `lasermademusic.html` and committed, not
 built on the server, so it goes stale silently unless it is regenerated after every edit.
 
 Released under [CC0 1.0](LICENSE).
