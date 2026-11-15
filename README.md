@@ -77,6 +77,13 @@ stacks and of the ring on a four-dimensional cube. Proposed, worked out and buil
 
 Which folders to clean up first on a full drive, and where to stop: the running-total curve and its point nearest the origin. **[Open it](https://gernreich.github.io/bang-for-the-buck/)**
 
+## Twisted cones
+
+A cone offset so one side runs up the z axis, and twisted around it: every slice level
+and touching the axis. A lit mixer of slice shape, twist, taper curve, copies, gap,
+cutoff, hollow wall and base, sized for a Bambu P1S and downloadable as STL, starting
+from thirty-one variations, plus the four ellipse and circle sweeps it grew from. **[Open it](https://gernreich.github.io/twisted-cones/)**
+
 This page is `README.md` rendered by `md2html` into `index.html` and committed, not
 built on the server, so it goes stale silently unless it is regenerated after every edit.
 
